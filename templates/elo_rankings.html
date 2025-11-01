@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Elo Rankings</title>
+  <style>
+  table {
+    width: auto;
+    border-collapse: collapse; /* removes spacing between borders */
+    table-layout: auto; /* ensures column width matches content */
+  }
+
+  th, td {
+    padding: 8px;
+    border-right: 1px solid #ccc; /* vertical lines between columns */
+    border-bottom: 1px solid #ddd; /* horizontal lines between rows */
+    text-align: center;
+    font-size: 14px;
+    white-space: nowrap; /* prevents text wrapping */
+  }
+
+  /* Remove border after last column */
+  th:last-child,
+  td:last-child {
+    border-right: none;
+  }
+</style>
+</head>
+<body>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Team</th>
+        <th>W</th>
+        <th>L</th>
+        <th>ELO</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in elo_table %}
+      <tr>
+        <td>{{ row.rank }}</td>
+        <td><a href="/schedule/{{ row.team_slug }}">{{ row.display_name }}</a></td>
+        <td>{{ row.W }}</td>
+        <td>{{ row.L }}</td>
+        <td>{{ row.rating }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+
+</body>
+</html>
