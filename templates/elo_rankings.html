@@ -43,7 +43,9 @@
       {% for row in elo_table %}
       <tr>
         <td>{{ row.rank }}</td>
-        <td><a href="/schedule/{{ row.team_slug }}">{{ row.display_name }}</a></td>
+        <td>
+          <a href="{{ url_for('show_team_schedule', team_name=row.team) }}">{{ row.display_name }}</a>
+        </td>
         <td>{{ row.W }}</td>
         <td>{{ row.L }}</td>
         <td>{{ row.rating }}</td>

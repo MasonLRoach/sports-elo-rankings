@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Schedule for {{ team_name }}</title>
+    <title>Schedule for {{ team_name.title() }}</title>
 </head>
 <body>
-    <h1>Schedule for {{ team_name }}</h1>
+    <h1>Schedule for {{ team_name.title() }}</h1>
 
     {% if schedule %}
     <table border="1">
