@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: elo-rankings
-    env: python
-    buildCommand: ""
-    startCommand: "python app.py"
-    plan: free
