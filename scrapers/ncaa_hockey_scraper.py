@@ -67,3 +67,28 @@ games_df['Away Team'] = games_df['Away Team'].replace('Rensselaer', 'RPI')
 games_df['Home Team'] = games_df['Home Team'].replace('St Lawrence', 'St. Lawrence')
 games_df['Away Team'] = games_df['Away Team'].replace('St Lawrence', 'St. Lawrence')
 
+import pandas as pd
+
+school_info_df = pd.read_csv(csv_path)
+
+# 🔧 Remove duplicates (case-insensitive)
+school_info_df = school_info_df.drop_duplicates(subset=['School'], keep='first')
+
+# 🔧 Normalize capitalization and spacing
+school_info_df['School'] = school_info_df['School'].str.strip().str.lower()
+
+# 🔧 Remove accidental non-D1 entries
+school_info_df = school_info_df[~school_info_df['School'].str.contains('american international', case=False)]
+
+# ✅ Build final team list
+d1_team_list = school_info_df['School'].str.title().tolist()
+
+school_info_df['School'] = (
+    school_info_df['School']
+    .str.strip()
+    .str.replace('-', ' ', regex=False)
+    .str.replace('.', '', regex=False)
+    .str.lower()
+)
+
+d1_team_list = school_info_df['School'].str.title().tolist()

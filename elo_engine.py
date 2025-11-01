@@ -127,7 +127,6 @@ def get_rankings(rankings_df):
 
 def get_team_schedule(team_name, games):
     team_name_normalized = team_name.lower().replace('.', '').replace("'", '').strip()
-
     schedule = []
 
     for game in games:
@@ -162,7 +161,9 @@ def get_team_schedule(team_name, games):
                 'opponent': opponent,
                 'opponent_slug': opponent_slug,
                 'result': result_str,
-                'is_d1': opponent in d1_team_list,
+                'is_d1': opponent.lower().replace('.', '').replace('-', ' ').replace("'", '').strip() in [
+                    t.lower().replace('.', '').replace('-', ' ').replace("'", '').strip() for t in d1_team_list
+                ],
             })
 
     return schedule

@@ -2,10 +2,11 @@
 <html>
 <head>
     <title>Schedule for {{ team_name.title() }}</title>
+    
 </head>
 <body>
     <h1>Schedule for {{ team_name.title() }}</h1>
-
+        <p><a href="/">← Back to Elo Rankings</a></p>
     {% if schedule %}
     <table border="1">
         <tr>
@@ -18,7 +19,7 @@
             <td>{{ game.date }}</td>
 
             {% if game.is_d1 %}
-                <td><a href="{{ url_for('show_team_schedule', team_name=game.opponent) }}">{{ game.opponent }}</a></td>
+                <td><a href="{{ url_for('show_team_schedule', team_name=game['opponent']) }}">{{ game['opponent'] }}</a></td>
             {% else %}
                 <td>{{ game.opponent }}</td>
             {% endif %}
@@ -31,6 +32,6 @@
         <p>No schedule found.</p>
     {% endif %}
 
-    <p><a href="/">← Back to Elo Rankings</a></p>
+    
 </body>
 </html>
