@@ -2,7 +2,28 @@
 <html>
 <head>
     <title>Schedule for {{ team_name.title() }}</title>
-    
+    <style>
+  table {
+    width: auto;
+    border-collapse: collapse; /* removes spacing between borders */
+    table-layout: auto; /* ensures column width matches content */
+  }
+
+  th, td {
+    padding: 8px;
+    border-right: 1px solid #ccc; /* vertical lines between columns */
+    border-bottom: 1px solid #ddd; /* horizontal lines between rows */
+    text-align: center;
+    font-size: 14px;
+    white-space: nowrap; /* prevents text wrapping */
+  }
+
+  /* Remove border after last column */
+  th:last-child,
+  td:last-child {
+    border-right: none;
+  }
+</style>
 </head>
 <body>
     <h1>Schedule for {{ team_name.title() }}</h1>
