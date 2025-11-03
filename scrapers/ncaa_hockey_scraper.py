@@ -92,3 +92,16 @@ school_info_df['School'] = (
 )
 
 d1_team_list = school_info_df['School'].str.title().tolist()
+
+def standardized_team_name(name):
+    """Standardize team names to avoid duplicates."""
+    return (
+        name.strip()
+        .lower()
+        .replace('.', '')
+        .replace("’", "")
+        .replace("'", "")
+        .replace("state", "state")
+        .replace("int'l", "intl")
+        .replace('  ', ' ')
+    )

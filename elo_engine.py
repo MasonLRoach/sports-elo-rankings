@@ -1,5 +1,5 @@
 import pandas as pd
-from scrapers.ncaa_hockey_scraper import games_df, all_games, played_games, regular_season, d1_team_list
+from scrapers.ncaa_hockey_scraper import games_df, all_games, played_games, regular_season, d1_team_list, standardized_team_name
 default_elo = 1000
 k_factor = 24
 home_advantage = 2  # Elo points added to home team for expected win calculation
@@ -22,18 +22,7 @@ def update_elo(home_elo, away_elo, result, k=k_factor, home_advantage=home_advan
 
 
 
-def clean_team_name(name):
-    """Standardize team names to avoid duplicates."""
-    return (
-        name.strip()
-        .lower()
-        .replace('.', '')
-        .replace("’", "")
-        .replace("'", "")
-        .replace("state", "state")
-        .replace("int'l", "intl")
-        .replace('  ', ' ')
-    )
+
 
 def build_elo_table(games_df):
     elo_ratings = {}
@@ -48,14 +37,14 @@ def build_elo_table(games_df):
         home_score = int(row['Home Score'])
         away_score = int(row['Away Score'])
 
-        home = clean_team_name(home_raw)
-        away = clean_team_name(away_raw)
+        home = standardized_team_name(home_raw)
+        away = standardized_team_name(away_raw)
 
         for team in [home, away]:
             if team not in elo_ratings:
                 elo_ratings[team] = default_elo
             if team not in team_stats:
-                team_stats[team] = {'W': 0, 'L': 0}
+                team_stats[team] = {'W': 0, 'L': 0, 'T': 0}
 
         home_elo = elo_ratings[home]
         away_elo = elo_ratings[away]
@@ -74,19 +63,22 @@ def build_elo_table(games_df):
         elo_ratings[away] = new_away_elo
 
         # --- Update W/L stats
-        if result >= 0.5:
+        if result > 0.5:
             team_stats[home]['W'] += 1
             team_stats[away]['L'] += 1
-        else:
+        elif result < 0.5:
             team_stats[home]['L'] += 1
             team_stats[away]['W'] += 1
+        else:
+            team_stats[home]['T'] += 1
+            team_stats[away]['T'] += 1
 
     # --- Map cleaned name -> display name
     original_names = {}
     for _, row in games_df.iterrows():
         for col in ['Home Team', 'Away Team']:
             raw = row[col]
-            norm = clean_team_name(raw)
+            norm = standardized_team_name(raw)
             if norm not in original_names or len(raw) > len(original_names[norm]):
                 original_names[norm] = raw.strip()
 
@@ -97,19 +89,21 @@ def build_elo_table(games_df):
             'display_name': original_names.get(team, team.title()),
             'rating': round(rating),
             'W': team_stats.get(team, {}).get('W', 0),
-            'L': team_stats.get(team, {}).get('L', 0)
+            'L': team_stats.get(team, {}).get('L', 0),
+            'T': team_stats.get(team, {}).get('T', 0)
         }
         for team, rating in elo_ratings.items()
     ])
 
     # --- Ensure all D1 teams are present
     d1_df = pd.DataFrame({'team': d1_team_list})
-    d1_df['team'] = d1_df['team'].apply(clean_team_name)
+    d1_df['team'] = d1_df['team'].apply(standardized_team_name)
     full_df = d1_df.merge(ratings_df, on='team', how='left')
     full_df['display_name'] = full_df['display_name'].fillna(full_df['team'].str.title())
     full_df['rating'] = full_df['rating'].fillna(default_elo).astype(int)
     full_df['W'] = full_df['W'].fillna(0).astype(int)
     full_df['L'] = full_df['L'].fillna(0).astype(int)
+    full_df['T'] = full_df['T'].fillna(0).astype(int)
 
     full_df = full_df.drop_duplicates(subset='team', keep='first')
     full_df = full_df.sort_values(by='rating', ascending=False).reset_index(drop=True)
