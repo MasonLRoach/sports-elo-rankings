@@ -141,11 +141,18 @@ def get_team_schedule(team_name, games):
             date = game['Date']
 
             if not team_score or not opp_score:
-                result_str = 'TBD'
+                result_str = 'TBD' # Maybe get the time of the game?
             else:
                 team_score = int(team_score)
                 opp_score = int(opp_score)
-                result = 'W' if team_score > opp_score else 'L'
+                """Get the result of the game"""
+                if team_score > opp_score:
+                    result = 'W'
+                elif team_score < opp_score:
+                    result = 'L'
+                else:
+                    result = 'T'
+
                 result_str = f"{team_score}-{opp_score} ({result})"
 
             # create a safe link for the opponent
