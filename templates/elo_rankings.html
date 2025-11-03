@@ -35,4 +35,23 @@ Elo Power Rankings
     {% endfor %}
   </tbody>
 </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Conference</th>
+        <th>Avg ELO</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for conf in conference_elos %}
+      <tr>
+        <td>{{ conf.Conference }}</td>
+        <td>{{ "%.1f"|format(conf.Elo) }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+</div>
 {% endblock %}

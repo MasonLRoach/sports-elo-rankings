@@ -1,6 +1,7 @@
 from flask import Flask, render_template
-from elo_engine import build_elo_table, get_team_schedule
-from scrapers.ncaa_hockey_scraper import regular_season, all_games, d1_team_list, games_df
+from scrapers.ncaa_hockey_scraper import regular_season, all_games
+from elo.elo_builder import build_elo_table, get_rankings
+from elo.schedule_utils import get_team_schedule
 
 app = Flask(__name__)
 
