@@ -1,0 +1,33 @@
+table {
+  width: auto;
+  border-collapse: collapse;
+  table-layout: auto;
+  margin-top: 15px;
+}
+
+th, td {
+  padding: 8px 12px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+th:last-child,
+td:last-child {
+  border-right: none;
+}
+
+.win { color: #2e7d32; font-weight: bold; }
+.loss { color: #c62828; font-weight: bold; }
+.tie { color: #616161; font-weight: bold; }
+
+a {
+  color: #1565c0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

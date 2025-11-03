@@ -1,58 +1,43 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Schedule for {{ team_name.title() }}</title>
-    <style>
-  table {
-    width: auto;
-    border-collapse: collapse; /* removes spacing between borders */
-    table-layout: auto; /* ensures column width matches content */
-  }
+{% extends "base.html" %}
 
-  th, td {
-    padding: 8px;
-    border-right: 1px solid #ccc; /* vertical lines between columns */
-    border-bottom: 1px solid #ddd; /* horizontal lines between rows */
-    text-align: center;
-    font-size: 14px;
-    white-space: nowrap; /* prevents text wrapping */
-  }
+{% block title %}
+Schedule for {{ team_name.title() }}
+{% endblock %}
 
-  /* Remove border after last column */
-  th:last-child,
-  td:last-child {
-    border-right: none;
-  }
-</style>
-</head>
-<body>
-    <h1>Schedule for {{ team_name.title() }}</h1>
-        <p><a href="/">← Back to Elo Rankings</a></p>
-    {% if schedule %}
-    <table border="1">
-        <tr>
-            <th>Date</th>
-            <th>Opponent</th>
-            <th>Result</th>
-        </tr>
-        {% for game in schedule %}
-        <tr>
-            <td>{{ game.date }}</td>
+{% block content %}
+<h1>Schedule for {{ team_name.title() }}</h1>
+<p><a href="/">← Back to Elo Rankings</a></p>
 
-            {% if game.is_d1 %}
-                <td><a href="{{ url_for('show_team_schedule', team_name=game['opponent']) }}">{{ game['opponent'] }}</a></td>
-            {% else %}
-                <td>{{ game.opponent }}</td>
-            {% endif %}
-            
-            <td>{{ game.result }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-    {% else %}
-        <p>No schedule found.</p>
-    {% endif %}
-
-    
-</body>
-</html>
+{% if schedule %}
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Opponent</th>
+      <th>Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for game in schedule %}
+    <tr>
+      <td>{{ game.date }}</td>
+      {% if game.is_d1 %}
+        <td>
+          <a href="{{ url_for('show_team_schedule', team_name=game.opponent) }}">
+            {{ game.opponent }}
+          </a>
+        </td>
+      {% else %}
+        <td>{{ game.opponent }}</td>
+      {% endif %}
+      <td class="{% if 'W' in game.result %}win{% elif 'L' in game.result %}loss{% else %}tie{% endif %}">
+        {{ game.result }}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+  <p>No schedule found.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Sports Power Rankings{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <style>
+    /* Simple inline navbar styling */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #00274c; /* dark blue */
+      color: white;
+      padding: 12px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    .nav-title {
+      font-size: 1.4em;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 25px;
+      font-weight: 500;
+      transition: 0.2s;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+      color: #ffcb05; /* maize accent for Michigan theme */
+    }
+
+    main {
+      padding: 20px 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="nav-title">Sports Power Rankings</div>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/rankings">Rankings</a>
+      <a href="/teams">Teams</a>
+      <a href="/about">About</a>
+    </nav>
+  </header>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+</body>
+</html>
