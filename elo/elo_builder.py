@@ -28,7 +28,7 @@ def build_elo_table(games_df):
         home_elo = elo_ratings[home]
         away_elo = elo_ratings[away]
 
-        # --- Determine result as 538-style fraction
+        # --- Determine result
         if home_score == away_score:
             result = 0.5  # tie
         elif abs(home_score - away_score) == 1:
@@ -36,7 +36,7 @@ def build_elo_table(games_df):
         else:
             result = 1.0 if home_score > away_score else 0.0  # regulation
 
-        # --- Update Elo using new 538 function
+        # --- Update Elo
         new_home_elo, new_away_elo = update_elo(home_elo, away_elo, result)
         elo_ratings[home] = new_home_elo
         elo_ratings[away] = new_away_elo

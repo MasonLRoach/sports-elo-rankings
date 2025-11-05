@@ -54,22 +54,11 @@ columns = ['Date','Conference', 'Away Team', 'Away Score' ,'Home Team', 'Home Sc
 df = pd.DataFrame(data, columns=columns)
 
 
-# Filter games that have not been played
 all_games = df
-played_games = df[df['Home Score'] != '']
 regular_season = df[df['Conference'] != 'Exhibition']
 
 
 games_df = regular_season[regular_season['Home Score'] != '']
-
-games_df['Home Team'] = games_df['Home Team'].replace('Rensselaer', 'RPI')
-games_df['Away Team'] = games_df['Away Team'].replace('Rensselaer', 'RPI')
-games_df['Home Team'] = games_df['Home Team'].replace('St Lawrence', 'St. Lawrence')
-games_df['Away Team'] = games_df['Away Team'].replace('St Lawrence', 'St. Lawrence')
-
-import pandas as pd
-
-school_info_df = pd.read_csv(csv_path)
 
 # 🔧 Remove duplicates (case-insensitive)
 school_info_df = school_info_df.drop_duplicates(subset=['School'], keep='first')

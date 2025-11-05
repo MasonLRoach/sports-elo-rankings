@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 
 {% block title %}
-Schedule for {{ team_name.title() }}
+Schedule for {{ display_name }}
 {% endblock %}
 
 {% block content %}
-<h1>Schedule for {{ team_name.title() }}</h1>
+<h1>Schedule for {{ display_name }}</h1>
 <p><a href="/">← Back to Elo Rankings</a></p>
 
 {% if schedule %}
