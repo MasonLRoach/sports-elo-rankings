@@ -21,6 +21,9 @@ Elo Power Rankings
     </tr>
   </thead>
   <tbody>
+    <p style="font-style:italic; color:#777;">
+      Last updated at {{ last_updated }}
+    </p>
     {% for row in elo_table %}
     <tr>
       <td>{{ row.rank }}</td>
