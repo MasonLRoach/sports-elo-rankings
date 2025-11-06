@@ -4,14 +4,15 @@ import pandas as pd
 import os
 import sys
 
-# --- Config ---
+# Configure
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import DATA_DIR
 
+# Load URL
 current_year_url = "https://www.collegehockeynews.com/schedules/?season=20252026"
 base_url = "https://www.collegehockeynews.com"
 
-# --- Load school info ---
+# Load School Info
 csv_path = os.path.join(DATA_DIR, "arena_school_info.csv")
 school_info_df = pd.read_csv(csv_path)
 
@@ -24,13 +25,14 @@ school_info_df = (
             .str.replace(".", "", regex=False)
             .str.lower())
 )
-d1_team_list = school_info_df["School"].str.title().tolist()
+
+d1_team_list = school_info_df["School"].str.title().tolist() # Creates list of d1 teams
 abbreviation_to_fullname = school_info_df.set_index("abv")["School"].to_dict()
 
 
 # --- Scraper core ---
-def get_current_season(url: str):
-    """Scrape the College Hockey News schedule table."""
+def get_current_season(url):
+    """Scrape College Hockey Scores"""
     current_date = None
     current_conference = None
     data = []
@@ -77,7 +79,6 @@ def standardized_team_name(name: str) -> str:
 # --- Daily wrapper for scheduler ---
 def run_scraper():
     """Re-scrape schedule and write CSV of current games."""
-    print("🏒 Running NCAA scraper...")
     data = get_current_season(current_year_url)
 
     columns = ["Date", "Conference", "Away Team", "Away Score",
@@ -87,14 +88,14 @@ def run_scraper():
     # Filter regular season, remove unplayed games
     regular_season = df[df["Conference"] != "Exhibition"]
     games_df = regular_season[regular_season["Home Score"] != ""]
+    all_games = df
 
     output_path = os.path.join(DATA_DIR, "games.csv")
     games_df.to_csv(output_path, index=False)
-    print(f"✅ Saved {len(games_df)} games to {output_path}")
 
-    return games_df, regular_season
+    return games_df, regular_season, all_games
 
 
-# --- Optional immediate run ---
+# Run File
 if __name__ == "__main__":
     run_scraper()

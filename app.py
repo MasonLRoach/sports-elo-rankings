@@ -10,24 +10,31 @@ import os
 
 app = Flask(__name__)
 
+last_updated = "Unkown"
 
-
-all_games, regular_season = run_scraper()
+all_games, regular_season, games_df = run_scraper()
 def daily_refresh():
     
-    global all_games, regular_season, elo_table, last_updated
+    global all_games, regular_season, elo_table, games_df, last_updated
 
     # 1. Re-scrape data
-    all_games, regular_season = run_scraper()
+    all_games, regular_season, games_df = run_scraper()
 
     # 2. Recalculate Elo rankings
     elo_table = build_elo_table(regular_season)
 
-    last_updated = datetime.now().strftime("%I:%M %p on %A, %B %d, %Y")
+    last_updated = datetime.datetime.now().strftime("%I:%M %p on %A, %B %d, %Y")
     timestamp_path = os.path.join("data", "last_updated.txt")
     with open(timestamp_path, "w") as f:
         f.write(last_updated)
 
+
+daily_refresh()
+    
+eastern = pytz.timezone('US/Eastern')  # or 'US/Central' if you prefer
+scheduler = BackgroundScheduler(timezone=eastern)
+scheduler.add_job(daily_refresh, 'cron', hour=6, minute=0)
+scheduler.start()
 
 timestamp_path = os.path.join("data", "last_updated.txt")
 if os.path.exists(timestamp_path):
@@ -35,11 +42,6 @@ if os.path.exists(timestamp_path):
         last_updated = f.read().strip()
 else:
     last_updated = "Unknown"
-    
-eastern = pytz.timezone('US/Eastern')  # or 'US/Central' if you prefer
-scheduler = BackgroundScheduler(timezone=eastern)
-scheduler.add_job(daily_refresh, 'cron', hour=6, minute=0)
-scheduler.start()
 
 elo_table = build_elo_table(regular_season)
 team_slug_map = {row['team_slug']: row['team'] for row in elo_table}
