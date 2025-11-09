@@ -31,10 +31,7 @@ def daily_refresh():
 
 daily_refresh()
     
-eastern = pytz.timezone('US/Eastern')  # or 'US/Central' if you prefer
-scheduler = BackgroundScheduler(timezone=eastern)
-scheduler.add_job(daily_refresh, 'cron', hour=6, minute=0)
-scheduler.start()
+
 
 timestamp_path = os.path.join("data", "last_updated.txt")
 if os.path.exists(timestamp_path):
@@ -62,4 +59,8 @@ def show_team_schedule(team_name):
 
 
 if __name__ == '__main__':
+    eastern = pytz.timezone('US/Eastern')  # or 'US/Central' if you prefer
+    scheduler = BackgroundScheduler(timezone=eastern)
+    scheduler.add_job(daily_refresh, 'cron', hour=6, minute=0)
+    scheduler.start()
     app.run(debug=True)
