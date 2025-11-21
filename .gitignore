@@ -1,4 +1,5 @@
 __pycache__/
+*.pyc
 scrapers/__pycache__/
 elo/__pycache__/
 test.py

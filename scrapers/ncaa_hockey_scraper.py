@@ -28,6 +28,7 @@ school_info_df = (
 
 d1_team_list = school_info_df["School"].str.title().tolist() # Creates list of d1 teams
 abbreviation_to_fullname = school_info_df.set_index("abv")["School"].to_dict()
+print(d1_team_list)
 
 
 # --- Scraper core ---

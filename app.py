@@ -34,7 +34,7 @@ def show_rankings():
 
 @app.route('/schedule/<path:team_name>')
 def show_team_schedule(team_name):
-    schedule = get_team_schedule(team_name, all_games.to_dict(orient='records'))
+    schedule = get_team_schedule(team_name, games_df.to_dict(orient='records'))
     return render_template('schedule.html', team_name=team_name, schedule=schedule)
 
 if __name__ == "__main__":
