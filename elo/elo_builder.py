@@ -73,12 +73,23 @@ def build_elo_table(games_df):
         }
         for team, rating in elo_ratings.items()
     ])
+    school_df = pd.read_csv("data/school_info.csv")
+    school_df["team"] = school_df["Team"].apply(standardized_team_name)
+
+    ratings_df = ratings_df.merge(
+        school_df[["team", "Conference"]],
+        on="team",
+        how="left"
+    )
+
+
 
     # --- Ensure all D1 teams are present
     d1_df = pd.DataFrame({'team': d1_team_list})
     d1_df['team'] = d1_df['team'].apply(standardized_team_name)
     full_df = d1_df.merge(ratings_df, on='team', how='left')
     full_df['display_name'] = full_df['display_name'].fillna(full_df['team'].str.title())
+    full_df['Conference'] = full_df['Conference'].fillna("")
     full_df['rating'] = full_df['rating'].fillna(default_elo).astype(int)
     full_df['W'] = full_df['W'].fillna(0).astype(int)
     full_df['L'] = full_df['L'].fillna(0).astype(int)

@@ -14,6 +14,7 @@ Elo Power Rankings
     <tr>
       <th>Rank</th>
       <th>Team</th>
+      <th>Conference</th>
       <th>W</th>
       <th>L</th>
       <th>T</th>
@@ -30,6 +31,7 @@ Elo Power Rankings
       <td>
         <a href="{{ url_for('show_team_schedule', team_name=row.display_name) }}">{{ row.display_name }}</a>
       </td>
+      <td>{{ row.Conference }}</td>
       <td>{{ row.W }}</td>
       <td>{{ row.L }}</td>
       <td>{{ row.T }}</td>

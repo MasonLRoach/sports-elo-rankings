@@ -13,7 +13,7 @@ current_year_url = "https://www.collegehockeynews.com/schedules/?season=20252026
 base_url = "https://www.collegehockeynews.com"
 
 # Load School Info
-csv_path = os.path.join(DATA_DIR, "arena_school_info.csv")
+csv_path = os.path.join(DATA_DIR, "school_info.csv")
 school_info_df = pd.read_csv(csv_path)
 
 # Clean school list only once

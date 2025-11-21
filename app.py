@@ -29,7 +29,6 @@ def daily_refresh():
         f.write(last_updated)
 
 
-daily_refresh()
     
 
 
