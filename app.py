@@ -58,8 +58,11 @@ def show_team_schedule(team_name):
 
 
 if __name__ == '__main__':
+    import os
     eastern = pytz.timezone('US/Eastern')  # or 'US/Central' if you prefer
     scheduler = BackgroundScheduler(timezone=eastern)
     scheduler.add_job(daily_refresh, 'cron', hour=6, minute=0)
     scheduler.start()
-    app.run(debug=True)
+    
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=False)  # debug=False for production
