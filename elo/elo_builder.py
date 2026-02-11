@@ -1,5 +1,9 @@
 import pandas as pd
-from elo.elo_math import update_elo, default_elo
+from elo_math import update_elo, default_elo
+import sys
+import os
+# Add parent directory to path so we can import from scrapers
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from scrapers.ncaa_hockey_scraper import d1_team_list, standardized_team_name
 
 
