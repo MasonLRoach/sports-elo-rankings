@@ -2,9 +2,8 @@ name: Update Hockey Rankings
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -28,8 +27,8 @@ jobs:
     - name: Run scraper
       run: python scrapers/ncaa_hockey_scraper.py
       
-    - name: Calculate ELO rankings
-      run: python elo/elo_builder.py
+    - name: Build rankings JSON for website
+      run: python build_rankings_json.py
       
     - name: Commit and push if changed
       run: |
