@@ -1,5 +1,5 @@
 import pandas as pd
-from elo_math import update_elo, default_elo
+from .elo_math import update_elo, default_elo
 import sys
 import os
 # Add parent directory to path so we can import from scrapers
