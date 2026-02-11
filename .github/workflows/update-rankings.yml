@@ -1,4 +1,3 @@
-
 name: Update Hockey Rankings
 
 on:
@@ -27,10 +26,10 @@ jobs:
         pip install requests beautifulsoup4 pandas numpy
         
     - name: Run scraper
-      run: python ncaa_hockey_scraper.py
+      run: python scrapers/ncaa_hockey_scraper.py
       
     - name: Calculate ELO rankings
-      run: python elo_builder.py
+      run: python elo/elo_builder.py
       
     - name: Commit and push if changed
       run: |
