@@ -97,6 +97,13 @@ def run_scraper():
     return games_df, regular_season, all_games
 
 
+# Also save as JSON for the web frontend
+json_output_path = os.path.join(DATA_DIR, "games.json")
+games_json = games_df.to_dict(orient='records')
+with open(json_output_path, 'w') as f:
+    json.dump(games_json, f, indent=2)
+
+
 # Run File
 if __name__ == "__main__":
     run_scraper()
