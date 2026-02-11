@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import sys
+import json
 
 # Configure
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
