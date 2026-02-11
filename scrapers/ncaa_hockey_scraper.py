@@ -93,16 +93,16 @@ def run_scraper():
 
     output_path = os.path.join(DATA_DIR, "games.csv")
     games_df.to_csv(output_path, index=False)
+    
+    # ADD THIS - Save as JSON too
+    json_output_path = os.path.join(DATA_DIR, "games.json")
+    games_json = games_df.to_dict(orient='records')
+    with open(json_output_path, 'w') as f:
+        json.dump(games_json, f, indent=2)
+    
+    print(f"Saved {len(games_df)} games to CSV and JSON")
 
     return games_df, regular_season, all_games
-
-
-# Also save as JSON for the web frontend
-json_output_path = os.path.join(DATA_DIR, "games.json")
-games_json = games_df.to_dict(orient='records')
-with open(json_output_path, 'w') as f:
-    json.dump(games_json, f, indent=2)
-
 
 # Run File
 if __name__ == "__main__":
