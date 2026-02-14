@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T18:49:18.857487",
+  "last_updated": "2026-02-14T01:59:16.780733",
   "rankings": [
     {
       "rank": 1,
@@ -128,18 +128,18 @@
     },
     {
       "rank": 26,
-      "team": "St. Cloud State",
+      "team": "Wisconsin",
       "rating": 1012
     },
     {
       "rank": 27,
-      "team": "Harvard",
-      "rating": 1006
+      "team": "St. Cloud State",
+      "rating": 1012
     },
     {
       "rank": 28,
-      "team": "Vermont",
-      "rating": 1004
+      "team": "Harvard",
+      "rating": 1006
     },
     {
       "rank": 29,
@@ -153,12 +153,12 @@
     },
     {
       "rank": 31,
-      "team": "Minnesota State",
-      "rating": 1001
+      "team": "Vermont",
+      "rating": 1004
     },
     {
       "rank": 32,
-      "team": "Wisconsin",
+      "team": "Minnesota State",
       "rating": 1001
     },
     {
@@ -198,28 +198,28 @@
     },
     {
       "rank": 40,
-      "team": "Ohio State",
-      "rating": 978
-    },
-    {
-      "rank": 41,
       "team": "Minnesota",
       "rating": 977
     },
     {
-      "rank": 42,
+      "rank": 41,
       "team": "Clarkson",
       "rating": 976
     },
     {
-      "rank": 43,
+      "rank": 42,
       "team": "New Hampshire",
       "rating": 975
     },
     {
-      "rank": 44,
+      "rank": 43,
       "team": "Arizona State",
       "rating": 973
+    },
+    {
+      "rank": 44,
+      "team": "Niagara",
+      "rating": 971
     },
     {
       "rank": 45,
@@ -228,33 +228,33 @@
     },
     {
       "rank": 46,
+      "team": "Ohio State",
+      "rating": 967
+    },
+    {
+      "rank": 47,
       "team": "Alaska",
       "rating": 966
     },
     {
-      "rank": 47,
+      "rank": 48,
       "team": "Northeastern",
       "rating": 964
     },
     {
-      "rank": 48,
+      "rank": 49,
       "team": "Omaha",
       "rating": 963
     },
     {
-      "rank": 49,
-      "team": "Long Island",
-      "rating": 960
-    },
-    {
       "rank": 50,
-      "team": "Niagara",
-      "rating": 959
+      "team": "Long Island",
+      "rating": 946
     },
     {
       "rank": 51,
       "team": "Robert Morris",
-      "rating": 958
+      "rating": 946
     },
     {
       "rank": 52,
@@ -263,18 +263,18 @@
     },
     {
       "rank": 53,
+      "team": "Stonehill",
+      "rating": 937
+    },
+    {
+      "rank": 54,
       "team": "Yale",
       "rating": 931
     },
     {
-      "rank": 54,
+      "rank": 55,
       "team": "Lake Superior",
       "rating": 929
-    },
-    {
-      "rank": 55,
-      "team": "Stonehill",
-      "rating": 923
     },
     {
       "rank": 56,

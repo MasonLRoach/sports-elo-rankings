@@ -7882,5 +7882,32 @@
     "Home Team": "RIT",
     "Home Score": "2",
     "OT": ""
+  },
+  {
+    "Date": "Friday, February 13, 2026",
+    "Conference": "Non-Conference",
+    "Away Team": "Stonehill",
+    "Away Score": "3",
+    "Home Team": "Long Island",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 13, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Robert Morris",
+    "Away Score": "2",
+    "Home Team": "Niagara",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 13, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Wisconsin",
+    "Away Score": "4",
+    "Home Team": "Ohio State",
+    "Home Score": "2",
+    "OT": ""
   }
 ]
