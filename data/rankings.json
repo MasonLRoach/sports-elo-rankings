@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T02:10:15.266290",
+  "last_updated": "2026-02-15T06:52:23.707021",
   "rankings": [
     {
       "rank": 1,
@@ -13,28 +13,28 @@
     },
     {
       "rank": 3,
-      "team": "North Dakota",
-      "rating": 1106
+      "team": "Quinnipiac",
+      "rating": 1111
     },
     {
       "rank": 4,
+      "team": "North Dakota",
+      "rating": 1109
+    },
+    {
+      "rank": 5,
       "team": "Western Michigan",
       "rating": 1105
     },
     {
-      "rank": 5,
-      "team": "Quinnipiac",
-      "rating": 1102
-    },
-    {
       "rank": 6,
-      "team": "Cornell",
-      "rating": 1082
+      "team": "Penn State",
+      "rating": 1072
     },
     {
       "rank": 7,
-      "team": "Penn State",
-      "rating": 1072
+      "team": "Minnesota Duluth",
+      "rating": 1071
     },
     {
       "rank": 8,
@@ -43,82 +43,82 @@
     },
     {
       "rank": 9,
-      "team": "Minnesota Duluth",
-      "rating": 1071
-    },
-    {
-      "rank": 10,
       "team": "Bentley",
       "rating": 1067
     },
     {
+      "rank": 10,
+      "team": "Cornell",
+      "rating": 1067
+    },
+    {
       "rank": 11,
-      "team": "Bowling Green",
-      "rating": 1066
+      "team": "Connecticut",
+      "rating": 1064
     },
     {
       "rank": 12,
-      "team": "Connecticut",
-      "rating": 1065
+      "team": "Boston College",
+      "rating": 1060
     },
     {
       "rank": 13,
+      "team": "Augustana",
+      "rating": 1056
+    },
+    {
+      "rank": 14,
+      "team": "Bowling Green",
+      "rating": 1053
+    },
+    {
+      "rank": 15,
       "team": "Michigan Tech",
       "rating": 1052
     },
     {
-      "rank": 14,
+      "rank": 16,
       "team": "St. Thomas",
       "rating": 1051
     },
     {
-      "rank": 15,
-      "team": "Merrimack",
-      "rating": 1050
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "team": "Dartmouth",
       "rating": 1048
     },
     {
-      "rank": 17,
-      "team": "Boston College",
-      "rating": 1048
-    },
-    {
       "rank": 18,
-      "team": "Augustana",
-      "rating": 1043
+      "team": "Denver",
+      "rating": 1046
     },
     {
       "rank": 19,
-      "team": "Denver",
-      "rating": 1036
+      "team": "Merrimack",
+      "rating": 1038
     },
     {
       "rank": 20,
       "team": "Miami",
-      "rating": 1033
+      "rating": 1030
     },
     {
       "rank": 21,
-      "team": "Princeton",
-      "rating": 1030
+      "team": "Union",
+      "rating": 1024
     },
     {
       "rank": 22,
       "team": "Maine",
-      "rating": 1021
+      "rating": 1022
     },
     {
       "rank": 23,
-      "team": "RIT",
-      "rating": 1017
+      "team": "Princeton",
+      "rating": 1020
     },
     {
       "rank": 24,
-      "team": "St. Cloud State",
+      "team": "RIT",
       "rating": 1017
     },
     {
@@ -128,18 +128,18 @@
     },
     {
       "rank": 26,
-      "team": "Wisconsin",
-      "rating": 1012
+      "team": "Sacred Heart",
+      "rating": 1007
     },
     {
       "rank": 27,
-      "team": "Union",
-      "rating": 1009
+      "team": "Wisconsin",
+      "rating": 1005
     },
     {
       "rank": 28,
-      "team": "Sacred Heart",
-      "rating": 1007
+      "team": "Lindenwood",
+      "rating": 1004
     },
     {
       "rank": 29,
@@ -148,8 +148,8 @@
     },
     {
       "rank": 30,
-      "team": "Harvard",
-      "rating": 1003
+      "team": "St. Cloud State",
+      "rating": 1004
     },
     {
       "rank": 31,
@@ -163,23 +163,23 @@
     },
     {
       "rank": 33,
-      "team": "Lindenwood",
-      "rating": 995
+      "team": "Colorado College",
+      "rating": 1000
     },
     {
       "rank": 34,
-      "team": "Air Force",
-      "rating": 990
+      "team": "Harvard",
+      "rating": 995
     },
     {
       "rank": 35,
-      "team": "Boston University",
-      "rating": 989
+      "team": "Air Force",
+      "rating": 993
     },
     {
       "rank": 36,
-      "team": "Colorado College",
-      "rating": 987
+      "team": "Boston University",
+      "rating": 989
     },
     {
       "rank": 37,
@@ -208,8 +208,8 @@
     },
     {
       "rank": 42,
-      "team": "Niagara",
-      "rating": 971
+      "team": "Ohio State",
+      "rating": 974
     },
     {
       "rank": 43,
@@ -223,22 +223,22 @@
     },
     {
       "rank": 45,
-      "team": "Ohio State",
-      "rating": 967
-    },
-    {
-      "rank": 46,
       "team": "Alaska",
       "rating": 966
     },
     {
+      "rank": 46,
+      "team": "Robert Morris",
+      "rating": 959
+    },
+    {
       "rank": 47,
-      "team": "Colgate",
-      "rating": 964
+      "team": "Long Island",
+      "rating": 958
     },
     {
       "rank": 48,
-      "team": "Long Island",
+      "team": "Niagara",
       "rating": 958
     },
     {
@@ -248,33 +248,33 @@
     },
     {
       "rank": 50,
-      "team": "Omaha",
-      "rating": 953
+      "team": "Colgate",
+      "rating": 950
     },
     {
       "rank": 51,
-      "team": "Robert Morris",
-      "rating": 946
+      "team": "Yale",
+      "rating": 944
     },
     {
       "rank": 52,
-      "team": "Bemidji State",
+      "team": "Omaha",
       "rating": 944
     },
     {
       "rank": 53,
-      "team": "Yale",
-      "rating": 936
+      "team": "Bemidji State",
+      "rating": 944
     },
     {
       "rank": 54,
-      "team": "Lake Superior",
-      "rating": 931
+      "team": "RPI",
+      "rating": 939
     },
     {
       "rank": 55,
-      "team": "RPI",
-      "rating": 926
+      "team": "Lake Superior",
+      "rating": 931
     },
     {
       "rank": 56,
@@ -293,18 +293,18 @@
     },
     {
       "rank": 59,
-      "team": "Alaska Anchorage",
-      "rating": 912
-    },
-    {
-      "rank": 60,
       "team": "St. Lawrence",
       "rating": 909
     },
     {
+      "rank": 60,
+      "team": "Alaska Anchorage",
+      "rating": 903
+    },
+    {
       "rank": 61,
       "team": "Mercyhurst",
-      "rating": 905
+      "rating": 902
     },
     {
       "rank": 62,

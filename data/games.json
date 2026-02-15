@@ -8128,10 +8128,28 @@
   },
   {
     "Date": "Saturday, February 14, 2026",
+    "Conference": "Non-Conference",
+    "Away Team": "Alaska Anchorage",
+    "Away Score": "2",
+    "Home Team": "Lindenwood",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
     "Conference": "Atlantic Hockey",
     "Away Team": "Holy Cross",
     "Away Score": "3",
     "Home Team": "Canisius",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Mercyhurst",
+    "Away Score": "4",
+    "Home Team": "Air Force",
     "Home Score": "5",
     "OT": ""
   },
@@ -8146,12 +8164,57 @@
   },
   {
     "Date": "Saturday, February 14, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Niagara",
+    "Away Score": "1",
+    "Home Team": "Robert Morris",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
     "Conference": "ECAC",
     "Away Team": "Dartmouth",
     "Away Score": "3",
     "Home Team": "Brown",
     "Home Score": "4",
     "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Princeton",
+    "Away Score": "1",
+    "Home Team": "Quinnipiac",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Colgate",
+    "Away Score": "1",
+    "Home Team": "RPI",
+    "Home Score": "6",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Cornell",
+    "Away Score": "1",
+    "Home Team": "Union",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Harvard",
+    "Away Score": "2",
+    "Home Team": "Yale",
+    "Home Score": "3",
+    "OT": "ot"
   },
   {
     "Date": "Saturday, February 14, 2026",
@@ -8168,6 +8231,15 @@
     "Away Team": "Minnesota",
     "Away Score": "2",
     "Home Team": "Notre Dame",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Wisconsin",
+    "Away Score": "2",
+    "Home Team": "Ohio State",
     "Home Score": "3",
     "OT": ""
   },
@@ -8200,11 +8272,56 @@
   },
   {
     "Date": "Saturday, February 14, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Connecticut",
+    "Away Score": "3",
+    "Home Team": "Maine",
+    "Home Score": "3",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Merrimack",
+    "Away Score": "2",
+    "Home Team": "Boston College",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Colorado College",
+    "Away Score": "4",
+    "Home Team": "St. Cloud State",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
     "Conference": "NCHC",
     "Away Team": "Arizona State",
     "Away Score": "2",
     "Home Team": "Western Michigan",
     "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Miami",
+    "Away Score": "3",
+    "Home Team": "North Dakota",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Denver",
+    "Away Score": "3",
+    "Home Team": "Omaha",
+    "Home Score": "1",
     "OT": ""
   },
   {
@@ -8224,5 +8341,23 @@
     "Home Team": "Lake Superior",
     "Home Score": "4",
     "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Bemidji State",
+    "Away Score": "1",
+    "Home Team": "Minnesota State",
+    "Home Score": "0",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Bowling Green",
+    "Away Score": "2",
+    "Home Team": "Augustana",
+    "Home Score": "4",
+    "OT": ""
   }
 ]
