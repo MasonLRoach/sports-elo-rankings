@@ -8116,5 +8116,113 @@
     "Home Team": "Augustana",
     "Home Score": "0",
     "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Non-Conference",
+    "Away Team": "Stonehill",
+    "Away Score": "3",
+    "Home Team": "Long Island",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Holy Cross",
+    "Away Score": "3",
+    "Home Team": "Canisius",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Sacred Heart",
+    "Away Score": "1",
+    "Home Team": "Bentley",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Dartmouth",
+    "Away Score": "3",
+    "Home Team": "Brown",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Penn State",
+    "Away Score": "3",
+    "Home Team": "Michigan",
+    "Home Score": "6",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Minnesota",
+    "Away Score": "2",
+    "Home Team": "Notre Dame",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Northeastern",
+    "Away Score": "1",
+    "Home Team": "Providence",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "New Hampshire",
+    "Away Score": "3",
+    "Home Team": "Boston University",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Mass. Lowell",
+    "Away Score": "5",
+    "Home Team": "Vermont",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Arizona State",
+    "Away Score": "2",
+    "Home Team": "Western Michigan",
+    "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Northern Michigan",
+    "Away Score": "0",
+    "Home Team": "Ferris State",
+    "Home Score": "6",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 14, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Michigan Tech",
+    "Away Score": "5",
+    "Home Team": "Lake Superior",
+    "Home Score": "4",
+    "OT": "ot"
   }
 ]
