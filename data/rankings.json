@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T18:36:15.503852",
+  "last_updated": "2026-02-16T02:06:14.258631",
   "rankings": [
     {
       "rank": 1,
@@ -8,13 +8,13 @@
     },
     {
       "rank": 2,
-      "team": "Michigan",
-      "rating": 1114
+      "team": "Quinnipiac",
+      "rating": 1120
     },
     {
       "rank": 3,
-      "team": "Quinnipiac",
-      "rating": 1111
+      "team": "Michigan",
+      "rating": 1114
     },
     {
       "rank": 4,
@@ -113,18 +113,18 @@
     },
     {
       "rank": 23,
-      "team": "Princeton",
-      "rating": 1020
-    },
-    {
-      "rank": 24,
       "team": "RIT",
       "rating": 1017
     },
     {
-      "rank": 25,
+      "rank": 24,
       "team": "Massachusetts",
       "rating": 1013
+    },
+    {
+      "rank": 25,
+      "team": "Princeton",
+      "rating": 1011
     },
     {
       "rank": 26,
