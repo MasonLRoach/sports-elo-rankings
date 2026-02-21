@@ -8588,6 +8588,15 @@
   {
     "Date": "Friday, February 20, 2026",
     "Conference": "Non-Conference",
+    "Away Team": "Alaska",
+    "Away Score": "4",
+    "Home Team": "Alaska Anchorage",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 20, 2026",
+    "Conference": "Non-Conference",
     "Away Team": "Long Island",
     "Away Score": "1",
     "Home Team": "Stonehill",

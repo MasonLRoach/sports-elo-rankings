@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T06:40:56.364421",
+  "last_updated": "2026-02-21T12:46:00.405709",
   "rankings": [
     {
       "rank": 1,
@@ -208,23 +208,23 @@
     },
     {
       "rank": 42,
-      "team": "Holy Cross",
+      "team": "Alaska",
       "rating": 970
     },
     {
       "rank": 43,
-      "team": "Vermont",
+      "team": "Holy Cross",
       "rating": 970
     },
     {
       "rank": 44,
-      "team": "Minnesota",
-      "rating": 967
+      "team": "Vermont",
+      "rating": 970
     },
     {
       "rank": 45,
-      "team": "Alaska",
-      "rating": 966
+      "team": "Minnesota",
+      "rating": 967
     },
     {
       "rank": 46,
@@ -304,7 +304,7 @@
     {
       "rank": 61,
       "team": "Alaska Anchorage",
-      "rating": 903
+      "rating": 899
     },
     {
       "rank": 62,
