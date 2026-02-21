@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-20T18:47:06.667817",
+  "last_updated": "2026-02-21T01:56:51.239355",
   "rankings": [
     {
       "rank": 1,
       "team": "Michigan State",
-      "rating": 1137
+      "rating": 1142
     },
     {
       "rank": 2,
@@ -28,13 +28,13 @@
     },
     {
       "rank": 6,
-      "team": "Penn State",
-      "rating": 1072
+      "team": "Minnesota Duluth",
+      "rating": 1082
     },
     {
       "rank": 7,
-      "team": "Minnesota Duluth",
-      "rating": 1071
+      "team": "Penn State",
+      "rating": 1072
     },
     {
       "rank": 8,
@@ -98,18 +98,18 @@
     },
     {
       "rank": 20,
-      "team": "Miami",
-      "rating": 1030
-    },
-    {
-      "rank": 21,
       "team": "Union",
       "rating": 1024
     },
     {
-      "rank": 22,
+      "rank": 21,
       "team": "Maine",
       "rating": 1022
+    },
+    {
+      "rank": 22,
+      "team": "Miami",
+      "rating": 1019
     },
     {
       "rank": 23,
@@ -289,7 +289,7 @@
     {
       "rank": 58,
       "team": "Notre Dame",
-      "rating": 918
+      "rating": 913
     },
     {
       "rank": 59,
