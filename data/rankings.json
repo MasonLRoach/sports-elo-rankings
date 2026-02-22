@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T02:05:58.027606",
+  "last_updated": "2026-02-22T06:47:08.055134",
   "rankings": [
     {
       "rank": 1,
@@ -8,23 +8,23 @@
     },
     {
       "rank": 2,
-      "team": "Quinnipiac",
-      "rating": 1107
+      "team": "North Dakota",
+      "rating": 1114
     },
     {
       "rank": 3,
-      "team": "North Dakota",
-      "rating": 1106
+      "team": "Quinnipiac",
+      "rating": 1114
     },
     {
       "rank": 4,
-      "team": "Western Michigan",
-      "rating": 1102
+      "team": "Michigan",
+      "rating": 1108
     },
     {
       "rank": 5,
-      "team": "Michigan",
-      "rating": 1098
+      "team": "Western Michigan",
+      "rating": 1102
     },
     {
       "rank": 6,
@@ -33,28 +33,28 @@
     },
     {
       "rank": 7,
-      "team": "Cornell",
-      "rating": 1081
+      "team": "Providence",
+      "rating": 1088
     },
     {
       "rank": 8,
-      "team": "Providence",
-      "rating": 1080
+      "team": "Penn State",
+      "rating": 1082
     },
     {
       "rank": 9,
-      "team": "Penn State",
-      "rating": 1080
-    },
-    {
-      "rank": 10,
       "team": "Boston College",
       "rating": 1078
     },
     {
-      "rank": 11,
+      "rank": 10,
       "team": "Bentley",
       "rating": 1071
+    },
+    {
+      "rank": 11,
+      "team": "Cornell",
+      "rating": 1067
     },
     {
       "rank": 12,
@@ -78,7 +78,7 @@
     },
     {
       "rank": 16,
-      "team": "Denver",
+      "team": "Maine",
       "rating": 1046
     },
     {
@@ -88,13 +88,13 @@
     },
     {
       "rank": 18,
-      "team": "Bowling Green",
-      "rating": 1044
+      "team": "Denver",
+      "rating": 1046
     },
     {
       "rank": 19,
-      "team": "Maine",
-      "rating": 1035
+      "team": "Bowling Green",
+      "rating": 1044
     },
     {
       "rank": 20,
@@ -108,13 +108,13 @@
     },
     {
       "rank": 22,
-      "team": "Merrimack",
-      "rating": 1026
+      "team": "Princeton",
+      "rating": 1024
     },
     {
       "rank": 23,
-      "team": "Wisconsin",
-      "rating": 1020
+      "team": "Merrimack",
+      "rating": 1014
     },
     {
       "rank": 24,
@@ -128,33 +128,33 @@
     },
     {
       "rank": 26,
+      "team": "Wisconsin",
+      "rating": 1011
+    },
+    {
+      "rank": 27,
       "team": "Minnesota State",
       "rating": 1010
     },
     {
-      "rank": 27,
+      "rank": 28,
       "team": "Miami",
       "rating": 1009
     },
     {
-      "rank": 28,
-      "team": "Princeton",
-      "rating": 1009
-    },
-    {
       "rank": 29,
-      "team": "St. Cloud State",
-      "rating": 1008
-    },
-    {
-      "rank": 30,
       "team": "Colorado College",
       "rating": 1004
     },
     {
-      "rank": 31,
+      "rank": 30,
       "team": "Lindenwood",
       "rating": 1004
+    },
+    {
+      "rank": 31,
+      "team": "St. Cloud State",
+      "rating": 999
     },
     {
       "rank": 32,
@@ -188,13 +188,13 @@
     },
     {
       "rank": 38,
-      "team": "Harvard",
-      "rating": 984
+      "team": "Northeastern",
+      "rating": 983
     },
     {
       "rank": 39,
-      "team": "Northeastern",
-      "rating": 983
+      "team": "Alaska",
+      "rating": 980
     },
     {
       "rank": 40,
@@ -208,38 +208,38 @@
     },
     {
       "rank": 42,
-      "team": "Alaska",
+      "team": "Harvard",
       "rating": 970
     },
     {
       "rank": 43,
-      "team": "Vermont",
-      "rating": 970
-    },
-    {
-      "rank": 44,
       "team": "Minnesota",
       "rating": 967
     },
     {
-      "rank": 45,
+      "rank": 44,
       "team": "Ohio State",
-      "rating": 965
+      "rating": 963
+    },
+    {
+      "rank": 45,
+      "team": "Vermont",
+      "rating": 962
     },
     {
       "rank": 46,
+      "team": "Niagara",
+      "rating": 961
+    },
+    {
+      "rank": 47,
       "team": "Holy Cross",
       "rating": 960
     },
     {
-      "rank": 47,
-      "team": "Omaha",
-      "rating": 956
-    },
-    {
       "rank": 48,
-      "team": "Colgate",
-      "rating": 953
+      "team": "Arizona State",
+      "rating": 957
     },
     {
       "rank": 49,
@@ -248,18 +248,18 @@
     },
     {
       "rank": 50,
-      "team": "Niagara",
-      "rating": 950
+      "team": "Colgate",
+      "rating": 946
     },
     {
       "rank": 51,
-      "team": "Long Island",
-      "rating": 945
+      "team": "RPI",
+      "rating": 944
     },
     {
       "rank": 52,
-      "team": "Arizona State",
-      "rating": 945
+      "team": "Omaha",
+      "rating": 944
     },
     {
       "rank": 53,
@@ -269,21 +269,21 @@
     {
       "rank": 54,
       "team": "Stonehill",
-      "rating": 938
+      "rating": 944
     },
     {
       "rank": 55,
-      "team": "Yale",
-      "rating": 933
+      "team": "Long Island",
+      "rating": 939
     },
     {
       "rank": 56,
-      "team": "RPI",
-      "rating": 931
+      "team": "St. Lawrence",
+      "rating": 934
     },
     {
       "rank": 57,
-      "team": "St. Lawrence",
+      "team": "Yale",
       "rating": 921
     },
     {
@@ -293,18 +293,18 @@
     },
     {
       "rank": 59,
-      "team": "Mercyhurst",
-      "rating": 910
-    },
-    {
-      "rank": 60,
       "team": "Brown",
       "rating": 908
     },
     {
+      "rank": 60,
+      "team": "Mercyhurst",
+      "rating": 900
+    },
+    {
       "rank": 61,
       "team": "Alaska Anchorage",
-      "rating": 899
+      "rating": 889
     },
     {
       "rank": 62,
