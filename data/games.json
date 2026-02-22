@@ -8629,5 +8629,86 @@
     "Home Team": "Bowling Green",
     "Home Score": "4",
     "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Boston College",
+    "Away Score": "2",
+    "Home Team": "Connecticut",
+    "Home Score": "1",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Northeastern",
+    "Away Score": "8",
+    "Home Team": "Mass. Lowell",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Robert Morris",
+    "Away Score": "0",
+    "Home Team": "Canisius",
+    "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Holy Cross",
+    "Away Score": "2",
+    "Home Team": "Sacred Heart",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Brown",
+    "Away Score": "3",
+    "Home Team": "Clarkson",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Dartmouth",
+    "Away Score": "3",
+    "Home Team": "Union",
+    "Home Score": "3",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Minnesota Duluth",
+    "Away Score": "4",
+    "Home Team": "Miami",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Lake Superior",
+    "Away Score": "5",
+    "Home Team": "Northern Michigan",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 21, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Minnesota State",
+    "Away Score": "1",
+    "Home Team": "Bowling Green",
+    "Home Score": "1",
+    "OT": "ot"
   }
 ]
