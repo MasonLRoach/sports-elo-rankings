@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T02:00:17.256130",
+  "last_updated": "2026-02-27T06:54:00.204987",
   "rankings": [
     {
       "rank": 1,
@@ -243,13 +243,13 @@
     },
     {
       "rank": 49,
-      "team": "Lake Superior",
-      "rating": 951
+      "team": "Colgate",
+      "rating": 946
     },
     {
       "rank": 50,
-      "team": "Colgate",
-      "rating": 946
+      "team": "Omaha",
+      "rating": 944
     },
     {
       "rank": 51,
@@ -258,23 +258,23 @@
     },
     {
       "rank": 52,
-      "team": "Omaha",
-      "rating": 944
-    },
-    {
-      "rank": 53,
       "team": "Bemidji State",
       "rating": 944
     },
     {
-      "rank": 54,
+      "rank": 53,
       "team": "Stonehill",
       "rating": 944
     },
     {
-      "rank": 55,
+      "rank": 54,
       "team": "Long Island",
       "rating": 939
+    },
+    {
+      "rank": 55,
+      "team": "Lake Superior",
+      "rating": 936
     },
     {
       "rank": 56,
@@ -309,7 +309,7 @@
     {
       "rank": 62,
       "team": "Ferris State",
-      "rating": 872
+      "rating": 887
     },
     {
       "rank": 63,
