@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T18:52:34.472257",
+  "last_updated": "2026-02-27T02:00:17.256130",
   "rankings": [
     {
       "rank": 1,
@@ -18,18 +18,18 @@
     },
     {
       "rank": 4,
-      "team": "Michigan",
-      "rating": 1108
-    },
-    {
-      "rank": 5,
       "team": "Western Michigan",
       "rating": 1102
     },
     {
-      "rank": 6,
+      "rank": 5,
       "team": "Minnesota Duluth",
       "rating": 1092
+    },
+    {
+      "rank": 6,
+      "team": "Michigan",
+      "rating": 1091
     },
     {
       "rank": 7,
@@ -188,33 +188,33 @@
     },
     {
       "rank": 38,
+      "team": "Minnesota",
+      "rating": 984
+    },
+    {
+      "rank": 39,
       "team": "Northeastern",
       "rating": 983
     },
     {
-      "rank": 39,
+      "rank": 40,
       "team": "Alaska",
       "rating": 980
     },
     {
-      "rank": 40,
+      "rank": 41,
       "team": "New Hampshire",
       "rating": 975
     },
     {
-      "rank": 41,
+      "rank": 42,
       "team": "Robert Morris",
       "rating": 973
     },
     {
-      "rank": 42,
+      "rank": 43,
       "team": "Harvard",
       "rating": 970
-    },
-    {
-      "rank": 43,
-      "team": "Minnesota",
-      "rating": 967
     },
     {
       "rank": 44,
