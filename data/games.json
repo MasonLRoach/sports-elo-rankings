@@ -8893,11 +8893,236 @@
   },
   {
     "Date": "Friday, February 27, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "RIT",
+    "Away Score": "1",
+    "Home Team": "Holy Cross",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Robert Morris",
+    "Away Score": "5",
+    "Home Team": "Mercyhurst",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Sacred Heart",
+    "Away Score": "3",
+    "Home Team": "Army",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Atlantic Hockey",
+    "Away Team": "Air Force",
+    "Away Score": "3",
+    "Home Team": "Bentley",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
     "Conference": "Big Ten",
     "Away Team": "Minnesota",
     "Away Score": "2",
     "Home Team": "Michigan",
     "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Penn State",
+    "Away Score": "3",
+    "Home Team": "Notre Dame",
+    "Home Score": "3",
+    "OT": "ot"
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Ohio State",
+    "Away Score": "5",
+    "Home Team": "Michigan State",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Ferris State",
+    "Away Score": "2",
+    "Home Team": "Lake Superior",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Bowling Green",
+    "Away Score": "1",
+    "Home Team": "Michigan Tech",
+    "Home Score": "0",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Northern Michigan",
+    "Away Score": "2",
+    "Home Team": "Minnesota State",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "CCHA",
+    "Away Team": "St. Thomas",
+    "Away Score": "1",
+    "Home Team": "Bemidji State",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "RPI",
+    "Away Score": "3",
+    "Home Team": "Brown",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Clarkson",
+    "Away Score": "4",
+    "Home Team": "Colgate",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "St. Lawrence",
+    "Away Score": "1",
+    "Home Team": "Cornell",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Quinnipiac",
+    "Away Score": "4",
+    "Home Team": "Dartmouth",
+    "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Princeton",
+    "Away Score": "3",
+    "Home Team": "Harvard",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Union",
+    "Away Score": "5",
+    "Home Team": "Yale",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Boston College",
+    "Away Score": "1",
+    "Home Team": "Boston University",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Massachusetts",
+    "Away Score": "5",
+    "Home Team": "Connecticut",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Northeastern",
+    "Away Score": "0",
+    "Home Team": "Maine",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Vermont",
+    "Away Score": "2",
+    "Home Team": "Merrimack",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "New Hampshire",
+    "Away Score": "1",
+    "Home Team": "Providence",
+    "Home Score": "0",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Arizona State",
+    "Away Score": "2",
+    "Home Team": "Denver",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Miami",
+    "Away Score": "3",
+    "Home Team": "Omaha",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "NCHC",
+    "Away Team": "North Dakota",
+    "Away Score": "5",
+    "Home Team": "Western Michigan",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, February 27, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Colorado College",
+    "Away Score": "4",
+    "Home Team": "Minnesota Duluth",
+    "Home Score": "1",
     "OT": ""
   }
 ]
