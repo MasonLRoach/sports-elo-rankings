@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T18:42:13.678227",
+  "last_updated": "2026-02-28T01:50:34.637608",
   "rankings": [
     {
       "rank": 1,
@@ -23,13 +23,13 @@
     },
     {
       "rank": 5,
-      "team": "Minnesota Duluth",
-      "rating": 1092
+      "team": "Michigan",
+      "rating": 1099
     },
     {
       "rank": 6,
-      "team": "Michigan",
-      "rating": 1091
+      "team": "Minnesota Duluth",
+      "rating": 1092
     },
     {
       "rank": 7,
@@ -178,32 +178,32 @@
     },
     {
       "rank": 36,
-      "team": "Canisius",
-      "rating": 988
-    },
-    {
-      "rank": 37,
       "team": "Air Force",
       "rating": 987
     },
     {
-      "rank": 38,
-      "team": "Minnesota",
-      "rating": 984
-    },
-    {
-      "rank": 39,
+      "rank": 37,
       "team": "Northeastern",
       "rating": 983
     },
     {
-      "rank": 40,
+      "rank": 38,
+      "team": "Canisius",
+      "rating": 981
+    },
+    {
+      "rank": 39,
       "team": "Alaska",
       "rating": 980
     },
     {
-      "rank": 41,
+      "rank": 40,
       "team": "New Hampshire",
+      "rating": 975
+    },
+    {
+      "rank": 41,
+      "team": "Minnesota",
       "rating": 975
     },
     {
@@ -218,18 +218,18 @@
     },
     {
       "rank": 44,
+      "team": "Niagara",
+      "rating": 968
+    },
+    {
+      "rank": 45,
       "team": "Ohio State",
       "rating": 963
     },
     {
-      "rank": 45,
+      "rank": 46,
       "team": "Vermont",
       "rating": 962
-    },
-    {
-      "rank": 46,
-      "team": "Niagara",
-      "rating": 961
     },
     {
       "rank": 47,
