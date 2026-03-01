@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-02-28T18:32:34.235386",
+  "last_updated": "2026-03-01T02:12:30.339364",
   "rankings": [
     {
       "rank": 1,
-      "team": "North Dakota",
-      "rating": 1126
+      "team": "Michigan State",
+      "rating": 1124
     },
     {
       "rank": 2,
-      "team": "Michigan State",
-      "rating": 1124
+      "team": "North Dakota",
+      "rating": 1119
     },
     {
       "rank": 3,
@@ -24,7 +24,7 @@
     {
       "rank": 5,
       "team": "Western Michigan",
-      "rating": 1090
+      "rating": 1097
     },
     {
       "rank": 6,
@@ -33,23 +33,23 @@
     },
     {
       "rank": 7,
-      "team": "Penn State",
-      "rating": 1077
-    },
-    {
-      "rank": 8,
       "team": "Minnesota Duluth",
       "rating": 1077
     },
     {
-      "rank": 9,
+      "rank": 8,
       "team": "Cornell",
       "rating": 1074
     },
     {
-      "rank": 10,
+      "rank": 9,
       "team": "Dartmouth",
       "rating": 1070
+    },
+    {
+      "rank": 10,
+      "team": "Penn State",
+      "rating": 1066
     },
     {
       "rank": 11,
@@ -73,8 +73,8 @@
     },
     {
       "rank": 15,
-      "team": "Michigan Tech",
-      "rating": 1052
+      "team": "Bowling Green",
+      "rating": 1050
     },
     {
       "rank": 16,
@@ -83,23 +83,23 @@
     },
     {
       "rank": 17,
-      "team": "Bowling Green",
-      "rating": 1044
+      "team": "Michigan Tech",
+      "rating": 1046
     },
     {
       "rank": 18,
+      "team": "Sacred Heart",
+      "rating": 1038
+    },
+    {
+      "rank": 19,
       "team": "Union",
       "rating": 1037
     },
     {
-      "rank": 19,
+      "rank": 20,
       "team": "St. Thomas",
       "rating": 1035
-    },
-    {
-      "rank": 20,
-      "team": "Sacred Heart",
-      "rating": 1033
     },
     {
       "rank": 21,
@@ -173,37 +173,37 @@
     },
     {
       "rank": 35,
+      "team": "Canisius",
+      "rating": 993
+    },
+    {
+      "rank": 36,
+      "team": "Robert Morris",
+      "rating": 991
+    },
+    {
+      "rank": 37,
       "team": "Mass. Lowell",
       "rating": 991
     },
     {
-      "rank": 36,
-      "team": "Army",
-      "rating": 986
-    },
-    {
-      "rank": 37,
+      "rank": 38,
       "team": "Harvard",
       "rating": 984
     },
     {
-      "rank": 38,
+      "rank": 39,
       "team": "Northeastern",
       "rating": 983
     },
     {
-      "rank": 39,
-      "team": "Robert Morris",
+      "rank": 40,
+      "team": "Army",
       "rating": 982
     },
     {
-      "rank": 40,
-      "team": "Ohio State",
-      "rating": 981
-    },
-    {
       "rank": 41,
-      "team": "Canisius",
+      "team": "Ohio State",
       "rating": 981
     },
     {
@@ -228,8 +228,8 @@
     },
     {
       "rank": 46,
-      "team": "Niagara",
-      "rating": 968
+      "team": "RPI",
+      "rating": 966
     },
     {
       "rank": 47,
@@ -243,8 +243,8 @@
     },
     {
       "rank": 49,
-      "team": "RPI",
-      "rating": 955
+      "team": "Niagara",
+      "rating": 956
     },
     {
       "rank": 50,
@@ -278,18 +278,18 @@
     },
     {
       "rank": 56,
+      "team": "Notre Dame",
+      "rating": 929
+    },
+    {
+      "rank": 57,
       "team": "St. Lawrence",
       "rating": 926
     },
     {
-      "rank": 57,
-      "team": "Notre Dame",
-      "rating": 918
-    },
-    {
       "rank": 58,
       "team": "Yale",
-      "rating": 918
+      "rating": 908
     },
     {
       "rank": 59,
@@ -298,18 +298,18 @@
     },
     {
       "rank": 60,
-      "team": "Mercyhurst",
-      "rating": 890
-    },
-    {
-      "rank": 61,
       "team": "Alaska Anchorage",
       "rating": 889
     },
     {
-      "rank": 62,
+      "rank": 61,
       "team": "Ferris State",
       "rating": 889
+    },
+    {
+      "rank": 62,
+      "team": "Mercyhurst",
+      "rating": 881
     },
     {
       "rank": 63,
