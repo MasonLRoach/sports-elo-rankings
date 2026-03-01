@@ -9164,9 +9164,27 @@
   {
     "Date": "Saturday, February 28, 2026",
     "Conference": "Atlantic Hockey",
+    "Away Team": "RIT",
+    "Away Score": "2",
+    "Home Team": "Holy Cross",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Atlantic Hockey",
     "Away Team": "Mercyhurst",
     "Away Score": "1",
     "Home Team": "Robert Morris",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Arizona State",
+    "Away Score": "1",
+    "Home Team": "Denver",
     "Home Score": "4",
     "OT": ""
   },
@@ -9181,11 +9199,38 @@
   },
   {
     "Date": "Saturday, February 28, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Colorado College",
+    "Away Score": "2",
+    "Home Team": "Minnesota Duluth",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "NCHC",
+    "Away Team": "Miami",
+    "Away Score": "4",
+    "Home Team": "Omaha",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
     "Conference": "Big Ten",
     "Away Team": "Penn State",
     "Away Score": "3",
     "Home Team": "Notre Dame",
     "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Ohio State",
+    "Away Score": "3",
+    "Home Team": "Michigan State",
+    "Home Score": "3",
     "OT": "ot"
   },
   {
@@ -9199,11 +9244,119 @@
   },
   {
     "Date": "Saturday, February 28, 2026",
+    "Conference": "CCHA",
+    "Away Team": "Northern Michigan",
+    "Away Score": "0",
+    "Home Team": "Minnesota State",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "CCHA",
+    "Away Team": "St. Thomas",
+    "Away Score": "2",
+    "Home Team": "Bemidji State",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Union",
+    "Away Score": "3",
+    "Home Team": "Brown",
+    "Home Score": "0",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "ECAC",
+    "Away Team": "St. Lawrence",
+    "Away Score": "3",
+    "Home Team": "Colgate",
+    "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Clarkson",
+    "Away Score": "1",
+    "Home Team": "Cornell",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Princeton",
+    "Away Score": "2",
+    "Home Team": "Dartmouth",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "ECAC",
+    "Away Team": "Quinnipiac",
+    "Away Score": "4",
+    "Home Team": "Harvard",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
     "Conference": "ECAC",
     "Away Team": "RPI",
     "Away Score": "4",
     "Home Team": "Yale",
     "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Connecticut",
+    "Away Score": "3",
+    "Home Team": "Massachusetts",
+    "Home Score": "3",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Vermont",
+    "Away Score": "4",
+    "Home Team": "Merrimack",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Providence",
+    "Away Score": "3",
+    "Home Team": "New Hampshire",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Maine",
+    "Away Score": "3",
+    "Home Team": "Northeastern",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, February 28, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Boston University",
+    "Away Score": "5",
+    "Home Team": "Boston College",
+    "Home Score": "1",
     "OT": ""
   }
 ]
