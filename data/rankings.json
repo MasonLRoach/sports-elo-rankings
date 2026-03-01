@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T06:44:33.780585",
+  "last_updated": "2026-03-01T12:47:21.944963",
   "rankings": [
     {
       "rank": 1,
@@ -188,27 +188,27 @@
     },
     {
       "rank": 38,
+      "team": "Alaska",
+      "rating": 989
+    },
+    {
+      "rank": 39,
       "team": "Ohio State",
       "rating": 986
     },
     {
-      "rank": 39,
+      "rank": 40,
       "team": "Army",
       "rating": 982
     },
     {
-      "rank": 40,
+      "rank": 41,
       "team": "Northeastern",
       "rating": 980
     },
     {
-      "rank": 41,
-      "team": "Holy Cross",
-      "rating": 980
-    },
-    {
       "rank": 42,
-      "team": "Alaska",
+      "team": "Holy Cross",
       "rating": 980
     },
     {
@@ -298,13 +298,13 @@
     },
     {
       "rank": 60,
-      "team": "Alaska Anchorage",
+      "team": "Ferris State",
       "rating": 889
     },
     {
       "rank": 61,
-      "team": "Ferris State",
-      "rating": 889
+      "team": "Alaska Anchorage",
+      "rating": 881
     },
     {
       "rank": 62,
