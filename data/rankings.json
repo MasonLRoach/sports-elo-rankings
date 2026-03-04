@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T01:58:58.411144",
+  "last_updated": "2026-03-04T06:46:43.926788",
   "rankings": [
     {
       "rank": 1,
@@ -168,53 +168,53 @@
     },
     {
       "rank": 34,
-      "team": "Canisius",
-      "rating": 993
-    },
-    {
-      "rank": 35,
       "team": "RIT",
       "rating": 992
     },
     {
-      "rank": 36,
+      "rank": 35,
       "team": "Robert Morris",
       "rating": 991
     },
     {
-      "rank": 37,
+      "rank": 36,
       "team": "Mass. Lowell",
       "rating": 991
     },
     {
-      "rank": 38,
+      "rank": 37,
       "team": "Alaska",
       "rating": 989
     },
     {
-      "rank": 39,
+      "rank": 38,
       "team": "Ohio State",
       "rating": 986
     },
     {
-      "rank": 40,
-      "team": "Army",
-      "rating": 982
-    },
-    {
-      "rank": 41,
+      "rank": 39,
       "team": "Northeastern",
       "rating": 980
     },
     {
-      "rank": 42,
+      "rank": 40,
       "team": "Holy Cross",
       "rating": 980
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "team": "Canisius",
+      "rating": 977
+    },
+    {
+      "rank": 42,
       "team": "Harvard",
       "rating": 976
+    },
+    {
+      "rank": 43,
+      "team": "Army",
+      "rating": 975
     },
     {
       "rank": 44,
@@ -233,13 +233,13 @@
     },
     {
       "rank": 47,
-      "team": "Bemidji State",
-      "rating": 962
+      "team": "Niagara",
+      "rating": 963
     },
     {
       "rank": 48,
-      "team": "Niagara",
-      "rating": 956
+      "team": "Bemidji State",
+      "rating": 962
     },
     {
       "rank": 49,
@@ -293,22 +293,22 @@
     },
     {
       "rank": 59,
-      "team": "Brown",
+      "team": "Mercyhurst",
       "rating": 897
     },
     {
       "rank": 60,
+      "team": "Brown",
+      "rating": 897
+    },
+    {
+      "rank": 61,
       "team": "Ferris State",
       "rating": 889
     },
     {
-      "rank": 61,
-      "team": "Alaska Anchorage",
-      "rating": 881
-    },
-    {
       "rank": 62,
-      "team": "Mercyhurst",
+      "team": "Alaska Anchorage",
       "rating": 881
     },
     {
