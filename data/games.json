@@ -9394,5 +9394,68 @@
     "Home Team": "Stonehill",
     "Home Score": "3",
     "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "United Collegiate Hockey Cup (at Centene Center, Maryland Heights, Mo.)",
+    "Away Team": "Long Island",
+    "Away Score": "4",
+    "Home Team": "Lindenwood",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Notre Dame",
+    "Away Score": "5",
+    "Home Team": "Ohio State",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Michigan State",
+    "Away Score": "7",
+    "Home Team": "Minnesota",
+    "Home Score": "1",
+    "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Big Ten",
+    "Away Team": "Wisconsin",
+    "Away Score": "7",
+    "Home Team": "Penn State",
+    "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "New Hampshire",
+    "Away Score": "1",
+    "Home Team": "Connecticut",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Boston College",
+    "Away Score": "1",
+    "Home Team": "Massachusetts",
+    "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Thursday, March 5, 2026",
+    "Conference": "Hockey East",
+    "Away Team": "Mass. Lowell",
+    "Away Score": "3",
+    "Home Team": "Merrimack",
+    "Home Score": "5",
+    "OT": ""
   }
 ]
