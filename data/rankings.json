@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T18:43:48.065530",
+  "last_updated": "2026-03-07T01:54:37.419161",
   "rankings": [
     {
       "rank": 1,
@@ -179,7 +179,7 @@
     {
       "rank": 36,
       "team": "Alaska",
-      "rating": 989
+      "rating": 987
     },
     {
       "rank": 37,
@@ -198,23 +198,23 @@
     },
     {
       "rank": 40,
-      "team": "Ohio State",
-      "rating": 978
-    },
-    {
-      "rank": 41,
       "team": "Canisius",
       "rating": 977
     },
     {
-      "rank": 42,
+      "rank": 41,
       "team": "Harvard",
       "rating": 976
     },
     {
-      "rank": 43,
+      "rank": 42,
       "team": "Army",
       "rating": 975
+    },
+    {
+      "rank": 43,
+      "team": "Ohio State",
+      "rating": 970
     },
     {
       "rank": 44,
@@ -259,17 +259,17 @@
     {
       "rank": 52,
       "team": "Stonehill",
-      "rating": 944
+      "rating": 946
     },
     {
       "rank": 53,
-      "team": "Arizona State",
-      "rating": 940
+      "team": "Notre Dame",
+      "rating": 945
     },
     {
       "rank": 54,
-      "team": "Notre Dame",
-      "rating": 937
+      "team": "Arizona State",
+      "rating": 940
     },
     {
       "rank": 55,
