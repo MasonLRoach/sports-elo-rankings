@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T18:34:00.709558",
+  "last_updated": "2026-03-09T02:05:04.660531",
   "rankings": [
     {
       "rank": 1,
@@ -133,28 +133,28 @@
     },
     {
       "rank": 27,
-      "team": "Colorado College",
+      "team": "Robert Morris",
       "rating": 1009
     },
     {
       "rank": 28,
+      "team": "Colorado College",
+      "rating": 1009
+    },
+    {
+      "rank": 29,
       "team": "Minnesota State",
       "rating": 1003
     },
     {
-      "rank": 29,
+      "rank": 30,
       "team": "Clarkson",
       "rating": 1002
     },
     {
-      "rank": 30,
+      "rank": 31,
       "team": "Lindenwood",
       "rating": 1001
-    },
-    {
-      "rank": 31,
-      "team": "Robert Morris",
-      "rating": 998
     },
     {
       "rank": 32,
@@ -183,23 +183,23 @@
     },
     {
       "rank": 37,
-      "team": "Air Force",
-      "rating": 989
-    },
-    {
-      "rank": 38,
       "team": "Mass. Lowell",
       "rating": 987
     },
     {
-      "rank": 39,
+      "rank": 38,
       "team": "Harvard",
       "rating": 980
     },
     {
-      "rank": 40,
+      "rank": 39,
       "team": "RIT",
       "rating": 979
+    },
+    {
+      "rank": 40,
+      "team": "Air Force",
+      "rating": 977
     },
     {
       "rank": 41,
