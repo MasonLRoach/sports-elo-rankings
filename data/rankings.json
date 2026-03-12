@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T18:53:21.256680",
+  "last_updated": "2026-03-12T02:03:48.962784",
   "rankings": [
     {
       "rank": 1,
@@ -23,13 +23,13 @@
     },
     {
       "rank": 5,
-      "team": "Providence",
-      "rating": 1101
+      "team": "Michigan",
+      "rating": 1106
     },
     {
       "rank": 6,
-      "team": "Michigan",
-      "rating": 1099
+      "team": "Providence",
+      "rating": 1101
     },
     {
       "rank": 7,
@@ -73,38 +73,38 @@
     },
     {
       "rank": 15,
+      "team": "Penn State",
+      "rating": 1049
+    },
+    {
+      "rank": 16,
       "team": "St. Thomas",
       "rating": 1044
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "team": "Merrimack",
+      "rating": 1043
+    },
+    {
+      "rank": 18,
       "team": "Massachusetts",
       "rating": 1043
     },
     {
-      "rank": 17,
-      "team": "Penn State",
-      "rating": 1039
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "team": "Wisconsin",
       "rating": 1038
     },
     {
-      "rank": 19,
+      "rank": 20,
       "team": "Union",
       "rating": 1037
     },
     {
-      "rank": 20,
+      "rank": 21,
       "team": "Maine",
       "rating": 1035
-    },
-    {
-      "rank": 21,
-      "team": "Connecticut",
-      "rating": 1033
     },
     {
       "rank": 22,
@@ -113,8 +113,8 @@
     },
     {
       "rank": 23,
-      "team": "Merrimack",
-      "rating": 1032
+      "team": "Connecticut",
+      "rating": 1033
     },
     {
       "rank": 24,
@@ -123,13 +123,13 @@
     },
     {
       "rank": 25,
-      "team": "Princeton",
-      "rating": 1012
+      "team": "Boston University",
+      "rating": 1022
     },
     {
       "rank": 26,
-      "team": "Boston University",
-      "rating": 1011
+      "team": "Princeton",
+      "rating": 1012
     },
     {
       "rank": 27,
@@ -143,28 +143,28 @@
     },
     {
       "rank": 29,
+      "team": "Northeastern",
+      "rating": 1004
+    },
+    {
+      "rank": 30,
       "team": "Minnesota State",
       "rating": 1003
     },
     {
-      "rank": 30,
+      "rank": 31,
       "team": "Clarkson",
       "rating": 1002
     },
     {
-      "rank": 31,
+      "rank": 32,
       "team": "Lindenwood",
       "rating": 1001
     },
     {
-      "rank": 32,
+      "rank": 33,
       "team": "Miami",
       "rating": 996
-    },
-    {
-      "rank": 33,
-      "team": "Northeastern",
-      "rating": 994
     },
     {
       "rank": 34,
@@ -183,18 +183,18 @@
     },
     {
       "rank": 37,
-      "team": "Mass. Lowell",
-      "rating": 987
-    },
-    {
-      "rank": 38,
       "team": "Harvard",
       "rating": 980
     },
     {
-      "rank": 39,
+      "rank": 38,
       "team": "RIT",
       "rating": 979
+    },
+    {
+      "rank": 39,
+      "team": "Mass. Lowell",
+      "rating": 977
     },
     {
       "rank": 40,
@@ -213,53 +213,53 @@
     },
     {
       "rank": 43,
-      "team": "Minnesota",
-      "rating": 973
-    },
-    {
-      "rank": 44,
       "team": "Ohio State",
       "rating": 970
     },
     {
-      "rank": 45,
-      "team": "Vermont",
-      "rating": 969
+      "rank": 44,
+      "team": "Minnesota",
+      "rating": 963
     },
     {
-      "rank": 46,
+      "rank": 45,
       "team": "RPI",
       "rating": 961
     },
     {
-      "rank": 47,
-      "team": "New Hampshire",
-      "rating": 953
+      "rank": 46,
+      "team": "Vermont",
+      "rating": 959
     },
     {
-      "rank": 48,
+      "rank": 47,
       "team": "Bemidji State",
       "rating": 951
     },
     {
-      "rank": 49,
+      "rank": 48,
       "team": "Niagara",
       "rating": 951
     },
     {
-      "rank": 50,
+      "rank": 49,
       "team": "Colgate",
       "rating": 951
     },
     {
-      "rank": 51,
-      "team": "Notre Dame",
+      "rank": 50,
+      "team": "Long Island",
       "rating": 945
     },
     {
+      "rank": 51,
+      "team": "New Hampshire",
+      "rating": 943
+    },
+    {
       "rank": 52,
-      "team": "Long Island",
-      "rating": 945
+      "team": "Stonehill",
+      "rating": 940
     },
     {
       "rank": 53,
@@ -268,8 +268,8 @@
     },
     {
       "rank": 54,
-      "team": "Stonehill",
-      "rating": 940
+      "team": "Notre Dame",
+      "rating": 938
     },
     {
       "rank": 55,

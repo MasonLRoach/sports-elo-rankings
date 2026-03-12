@@ -9835,5 +9835,50 @@
     "Home Team": "Robert Morris",
     "Home Score": "5",
     "OT": ""
+  },
+  {
+    "Date": "Wednesday, March 11, 2026",
+    "Conference": "HEA Tournament",
+    "Away Team": "Vermont",
+    "Away Score": "1",
+    "Home Team": "Boston University",
+    "Home Score": "4",
+    "OT": ""
+  },
+  {
+    "Date": "Wednesday, March 11, 2026",
+    "Conference": "HEA Tournament",
+    "Away Team": "Mass. Lowell",
+    "Away Score": "3",
+    "Home Team": "Merrimack",
+    "Home Score": "5",
+    "OT": ""
+  },
+  {
+    "Date": "Wednesday, March 11, 2026",
+    "Conference": "HEA Tournament",
+    "Away Team": "New Hampshire",
+    "Away Score": "3",
+    "Home Team": "Northeastern",
+    "Home Score": "7",
+    "OT": ""
+  },
+  {
+    "Date": "Wednesday, March 11, 2026",
+    "Conference": "Big Ten Tournament",
+    "Away Team": "Notre Dame",
+    "Away Score": "1",
+    "Home Team": "Michigan",
+    "Home Score": "6",
+    "OT": ""
+  },
+  {
+    "Date": "Wednesday, March 11, 2026",
+    "Conference": "Big Ten Tournament",
+    "Away Team": "Minnesota",
+    "Away Score": "2",
+    "Home Team": "Penn State",
+    "Home Score": "6",
+    "OT": ""
   }
 ]
