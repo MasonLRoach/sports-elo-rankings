@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T02:03:48.962784",
+  "last_updated": "2026-03-12T06:55:07.681975",
   "rankings": [
     {
       "rank": 1,
@@ -93,18 +93,18 @@
     },
     {
       "rank": 19,
-      "team": "Wisconsin",
-      "rating": 1038
-    },
-    {
-      "rank": 20,
       "team": "Union",
       "rating": 1037
     },
     {
-      "rank": 21,
+      "rank": 20,
       "team": "Maine",
       "rating": 1035
+    },
+    {
+      "rank": 21,
+      "team": "Connecticut",
+      "rating": 1033
     },
     {
       "rank": 22,
@@ -113,13 +113,13 @@
     },
     {
       "rank": 23,
-      "team": "Connecticut",
-      "rating": 1033
+      "team": "Boston College",
+      "rating": 1028
     },
     {
       "rank": 24,
-      "team": "Boston College",
-      "rating": 1028
+      "team": "Wisconsin",
+      "rating": 1023
     },
     {
       "rank": 25,
@@ -183,22 +183,22 @@
     },
     {
       "rank": 37,
+      "team": "Ohio State",
+      "rating": 985
+    },
+    {
+      "rank": 38,
       "team": "Harvard",
       "rating": 980
     },
     {
-      "rank": 38,
+      "rank": 39,
       "team": "RIT",
       "rating": 979
     },
     {
-      "rank": 39,
-      "team": "Mass. Lowell",
-      "rating": 977
-    },
-    {
       "rank": 40,
-      "team": "Air Force",
+      "team": "Mass. Lowell",
       "rating": 977
     },
     {
@@ -208,13 +208,13 @@
     },
     {
       "rank": 42,
-      "team": "Army",
-      "rating": 975
+      "team": "Air Force",
+      "rating": 977
     },
     {
       "rank": 43,
-      "team": "Ohio State",
-      "rating": 970
+      "team": "Army",
+      "rating": 975
     },
     {
       "rank": 44,
