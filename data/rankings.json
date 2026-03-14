@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T01:58:47.593497",
+  "last_updated": "2026-03-14T06:44:31.687969",
   "rankings": [
     {
       "rank": 1,
@@ -48,17 +48,17 @@
     },
     {
       "rank": 10,
-      "team": "Augustana",
+      "team": "Bentley",
       "rating": 1066
     },
     {
       "rank": 11,
-      "team": "Michigan Tech",
-      "rating": 1063
+      "team": "Augustana",
+      "rating": 1066
     },
     {
       "rank": 12,
-      "team": "Bentley",
+      "team": "Michigan Tech",
       "rating": 1063
     },
     {
@@ -178,13 +178,13 @@
     },
     {
       "rank": 36,
-      "team": "Holy Cross",
-      "rating": 993
+      "team": "St. Cloud State",
+      "rating": 992
     },
     {
       "rank": 37,
-      "team": "St. Cloud State",
-      "rating": 992
+      "team": "Holy Cross",
+      "rating": 989
     },
     {
       "rank": 38,
