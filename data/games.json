@@ -10073,6 +10073,15 @@
   {
     "Date": "Saturday, March 14, 2026",
     "Conference": "NCHC Tournament",
+    "Away Team": "Western Michigan",
+    "Away Score": "1",
+    "Home Team": "Denver",
+    "Home Score": "2",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, March 14, 2026",
+    "Conference": "NCHC Tournament",
     "Away Team": "Minnesota Duluth",
     "Away Score": "5",
     "Home Team": "North Dakota",
