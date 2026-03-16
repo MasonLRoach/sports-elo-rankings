@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T18:38:02.139661",
+  "last_updated": "2026-03-16T02:25:12.657918",
   "rankings": [
     {
       "rank": 1,
@@ -48,13 +48,13 @@
     },
     {
       "rank": 10,
-      "team": "Bentley",
-      "rating": 1066
+      "team": "Cornell",
+      "rating": 1072
     },
     {
       "rank": 11,
-      "team": "Cornell",
-      "rating": 1062
+      "team": "Bentley",
+      "rating": 1066
     },
     {
       "rank": 12,
@@ -168,28 +168,28 @@
     },
     {
       "rank": 34,
-      "team": "Harvard",
-      "rating": 995
-    },
-    {
-      "rank": 35,
       "team": "Northeastern",
       "rating": 994
     },
     {
-      "rank": 36,
+      "rank": 35,
       "team": "Alaska",
       "rating": 994
     },
     {
-      "rank": 37,
+      "rank": 36,
       "team": "St. Cloud State",
       "rating": 992
     },
     {
-      "rank": 38,
+      "rank": 37,
       "team": "Holy Cross",
       "rating": 989
+    },
+    {
+      "rank": 38,
+      "team": "Harvard",
+      "rating": 985
     },
     {
       "rank": 39,
