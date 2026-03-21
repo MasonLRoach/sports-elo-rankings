@@ -10117,6 +10117,15 @@
   },
   {
     "Date": "Friday, March 20, 2026",
+    "Conference": "HEA Tournament (at TD Garden, Boston, Mass.)",
+    "Away Team": "Boston College",
+    "Away Score": "3",
+    "Home Team": "Connecticut",
+    "Home Score": "4",
+    "OT": "ot"
+  },
+  {
+    "Date": "Friday, March 20, 2026",
     "Conference": "ECAC Tournament (at 1980 Rink Herb Brooks Arena, Lake Placid, N.Y.)",
     "Away Team": "Clarkson",
     "Away Score": "0",
@@ -10131,6 +10140,15 @@
     "Away Score": "3",
     "Home Team": "Cornell",
     "Home Score": "2",
+    "OT": ""
+  },
+  {
+    "Date": "Friday, March 20, 2026",
+    "Conference": "CCHA Tournament",
+    "Away Team": "St. Thomas",
+    "Away Score": "1",
+    "Home Team": "Minnesota State",
+    "Home Score": "4",
     "OT": ""
   }
 ]

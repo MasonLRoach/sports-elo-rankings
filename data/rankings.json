@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T01:57:01.378497",
+  "last_updated": "2026-03-21T06:41:49.946727",
   "rankings": [
     {
       "rank": 1,
@@ -68,13 +68,13 @@
     },
     {
       "rank": 14,
-      "team": "St. Thomas",
+      "team": "Merrimack",
       "rating": 1051
     },
     {
       "rank": 15,
-      "team": "Merrimack",
-      "rating": 1051
+      "team": "Connecticut",
+      "rating": 1049
     },
     {
       "rank": 16,
@@ -88,18 +88,18 @@
     },
     {
       "rank": 18,
-      "team": "Connecticut",
-      "rating": 1044
-    },
-    {
-      "rank": 19,
       "team": "Princeton",
       "rating": 1044
     },
     {
-      "rank": 20,
+      "rank": 19,
       "team": "Penn State",
       "rating": 1039
+    },
+    {
+      "rank": 20,
+      "team": "St. Thomas",
+      "rating": 1038
     },
     {
       "rank": 21,
@@ -113,8 +113,8 @@
     },
     {
       "rank": 23,
-      "team": "Boston College",
-      "rating": 1028
+      "team": "Minnesota State",
+      "rating": 1030
     },
     {
       "rank": 24,
@@ -123,8 +123,8 @@
     },
     {
       "rank": 25,
-      "team": "Minnesota State",
-      "rating": 1017
+      "team": "Boston College",
+      "rating": 1022
     },
     {
       "rank": 26,
