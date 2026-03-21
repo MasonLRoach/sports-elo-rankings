@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T18:50:20.793171",
+  "last_updated": "2026-03-21T01:57:01.378497",
   "rankings": [
     {
       "rank": 1,
@@ -48,13 +48,13 @@
     },
     {
       "rank": 10,
-      "team": "Cornell",
-      "rating": 1072
+      "team": "Bentley",
+      "rating": 1066
     },
     {
       "rank": 11,
-      "team": "Bentley",
-      "rating": 1066
+      "team": "Cornell",
+      "rating": 1065
     },
     {
       "rank": 12,
@@ -93,13 +93,13 @@
     },
     {
       "rank": 19,
-      "team": "Penn State",
-      "rating": 1039
+      "team": "Princeton",
+      "rating": 1044
     },
     {
       "rank": 20,
-      "team": "Princeton",
-      "rating": 1037
+      "team": "Penn State",
+      "rating": 1039
     },
     {
       "rank": 21,
