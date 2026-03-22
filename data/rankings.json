@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-22T02:09:40.173903",
+  "last_updated": "2026-03-22T06:51:40.612872",
   "rankings": [
     {
       "rank": 1,
-      "team": "North Dakota",
-      "rating": 1117
+      "team": "Michigan",
+      "rating": 1124
     },
     {
       "rank": 2,
-      "team": "Michigan",
-      "rating": 1116
+      "team": "North Dakota",
+      "rating": 1117
     },
     {
       "rank": 3,
@@ -28,13 +28,13 @@
     },
     {
       "rank": 6,
-      "team": "Minnesota Duluth",
-      "rating": 1095
+      "team": "Providence",
+      "rating": 1093
     },
     {
       "rank": 7,
-      "team": "Providence",
-      "rating": 1093
+      "team": "Minnesota Duluth",
+      "rating": 1089
     },
     {
       "rank": 8,
@@ -44,7 +44,7 @@
     {
       "rank": 9,
       "team": "Denver",
-      "rating": 1080
+      "rating": 1087
     },
     {
       "rank": 10,
@@ -163,28 +163,28 @@
     },
     {
       "rank": 33,
-      "team": "Ohio State",
-      "rating": 995
-    },
-    {
-      "rank": 34,
       "team": "Northeastern",
       "rating": 994
     },
     {
-      "rank": 35,
+      "rank": 34,
       "team": "Alaska",
       "rating": 994
     },
     {
-      "rank": 36,
+      "rank": 35,
       "team": "St. Cloud State",
       "rating": 992
     },
     {
-      "rank": 37,
+      "rank": 36,
       "team": "Holy Cross",
       "rating": 989
+    },
+    {
+      "rank": 37,
+      "team": "Ohio State",
+      "rating": 987
     },
     {
       "rank": 38,

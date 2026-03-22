@@ -10162,6 +10162,15 @@
   },
   {
     "Date": "Saturday, March 21, 2026",
+    "Conference": "NCHC Tournament",
+    "Away Team": "Minnesota Duluth",
+    "Away Score": "3",
+    "Home Team": "Denver",
+    "Home Score": "4",
+    "OT": "2ot"
+  },
+  {
+    "Date": "Saturday, March 21, 2026",
     "Conference": "HEA Tournament (at TD Garden, Boston, Mass.)",
     "Away Team": "Merrimack",
     "Away Score": "2",
@@ -10176,6 +10185,15 @@
     "Away Score": "2",
     "Home Team": "Bentley",
     "Home Score": "3",
+    "OT": ""
+  },
+  {
+    "Date": "Saturday, March 21, 2026",
+    "Conference": "Big Ten Tournament (at Yost Ice Arena, Ann Arbor, Mich.)",
+    "Away Team": "Ohio State",
+    "Away Score": "3",
+    "Home Team": "Michigan",
+    "Home Score": "7",
     "OT": ""
   }
 ]
