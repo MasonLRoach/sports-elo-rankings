@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T19:05:01.063349",
+  "last_updated": "2026-03-27T02:22:48.807971",
   "rankings": [
     {
       "rank": 1,
@@ -14,37 +14,37 @@
     {
       "rank": 3,
       "team": "Michigan State",
-      "rating": 1111
+      "rating": 1115
     },
     {
       "rank": 4,
+      "team": "Quinnipiac",
+      "rating": 1110
+    },
+    {
+      "rank": 5,
       "team": "Western Michigan",
       "rating": 1102
     },
     {
-      "rank": 5,
-      "team": "Quinnipiac",
-      "rating": 1098
-    },
-    {
       "rank": 6,
-      "team": "Providence",
-      "rating": 1093
-    },
-    {
-      "rank": 7,
       "team": "Minnesota Duluth",
       "rating": 1089
     },
     {
+      "rank": 7,
+      "team": "Denver",
+      "rating": 1087
+    },
+    {
       "rank": 8,
-      "team": "Dartmouth",
-      "rating": 1088
+      "team": "Providence",
+      "rating": 1081
     },
     {
       "rank": 9,
-      "team": "Denver",
-      "rating": 1087
+      "team": "Dartmouth",
+      "rating": 1074
     },
     {
       "rank": 10,
@@ -78,13 +78,13 @@
     },
     {
       "rank": 16,
-      "team": "Connecticut",
-      "rating": 1043
+      "team": "Sacred Heart",
+      "rating": 1041
     },
     {
       "rank": 17,
-      "team": "Sacred Heart",
-      "rating": 1041
+      "team": "Connecticut",
+      "rating": 1040
     },
     {
       "rank": 18,
@@ -103,23 +103,23 @@
     },
     {
       "rank": 21,
+      "team": "Wisconsin",
+      "rating": 1038
+    },
+    {
+      "rank": 22,
       "team": "Maine",
       "rating": 1035
     },
     {
-      "rank": 22,
+      "rank": 23,
       "team": "Bowling Green",
       "rating": 1033
     },
     {
-      "rank": 23,
+      "rank": 24,
       "team": "Minnesota State",
       "rating": 1030
-    },
-    {
-      "rank": 24,
-      "team": "Wisconsin",
-      "rating": 1023
     },
     {
       "rank": 25,
