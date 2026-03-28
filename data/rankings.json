@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T02:06:08.056175",
+  "last_updated": "2026-03-28T06:58:37.294726",
   "rankings": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
     {
       "rank": 6,
       "team": "Minnesota Duluth",
-      "rating": 1089
+      "rating": 1099
     },
     {
       "rank": 7,
@@ -88,33 +88,33 @@
     },
     {
       "rank": 18,
-      "team": "Penn State",
-      "rating": 1039
-    },
-    {
-      "rank": 19,
       "team": "Princeton",
       "rating": 1039
     },
     {
-      "rank": 20,
+      "rank": 19,
       "team": "St. Thomas",
       "rating": 1038
     },
     {
-      "rank": 21,
+      "rank": 20,
       "team": "Wisconsin",
       "rating": 1038
     },
     {
-      "rank": 22,
+      "rank": 21,
       "team": "Maine",
       "rating": 1035
     },
     {
-      "rank": 23,
+      "rank": 22,
       "team": "Bowling Green",
       "rating": 1033
+    },
+    {
+      "rank": 23,
+      "team": "Penn State",
+      "rating": 1028
     },
     {
       "rank": 24,
