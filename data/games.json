@@ -10267,5 +10267,23 @@
     "Home Team": "Minnesota Duluth",
     "Home Score": "3",
     "OT": ""
+  },
+  {
+    "Date": "Saturday, March 28, 2026",
+    "Conference": "NCAA Tournament, Worcester Regional (at DCU Center, Worcester, Mass.)",
+    "Away Team": "Wisconsin",
+    "Away Score": "4",
+    "Home Team": "Michigan State",
+    "Home Score": "3",
+    "OT": "ot"
+  },
+  {
+    "Date": "Saturday, March 28, 2026",
+    "Conference": "NCAA Tournament, Falls Regional (at Denny Sanford Premier Center, Sioux Falls, S.D.)",
+    "Away Team": "Quinnipiac",
+    "Away Score": "0",
+    "Home Team": "North Dakota",
+    "Home Score": "5",
+    "OT": ""
   }
 ]

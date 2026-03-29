@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T18:40:10.581914",
+  "last_updated": "2026-03-29T02:25:16.550172",
   "rankings": [
     {
       "rank": 1,
@@ -13,18 +13,18 @@
     },
     {
       "rank": 3,
-      "team": "Michigan State",
-      "rating": 1115
-    },
-    {
-      "rank": 4,
       "team": "Western Michigan",
       "rating": 1112
     },
     {
-      "rank": 5,
+      "rank": 4,
       "team": "Quinnipiac",
       "rating": 1110
+    },
+    {
+      "rank": 5,
+      "team": "Michigan State",
+      "rating": 1106
     },
     {
       "rank": 6,
@@ -78,27 +78,27 @@
     },
     {
       "rank": 16,
+      "team": "Wisconsin",
+      "rating": 1046
+    },
+    {
+      "rank": 17,
       "team": "Sacred Heart",
       "rating": 1041
     },
     {
-      "rank": 17,
+      "rank": 18,
       "team": "Connecticut",
       "rating": 1040
     },
     {
-      "rank": 18,
+      "rank": 19,
       "team": "Princeton",
       "rating": 1039
     },
     {
-      "rank": 19,
-      "team": "St. Thomas",
-      "rating": 1038
-    },
-    {
       "rank": 20,
-      "team": "Wisconsin",
+      "team": "St. Thomas",
       "rating": 1038
     },
     {
