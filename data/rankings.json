@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T19:06:01.518126",
+  "last_updated": "2026-04-10T02:30:37.197791",
   "rankings": [
     {
       "rank": 1,
@@ -8,13 +8,13 @@
     },
     {
       "rank": 2,
-      "team": "North Dakota",
-      "rating": 1117
+      "team": "Quinnipiac",
+      "rating": 1110
     },
     {
       "rank": 3,
-      "team": "Quinnipiac",
-      "rating": 1110
+      "team": "North Dakota",
+      "rating": 1109
     },
     {
       "rank": 4,
@@ -68,18 +68,18 @@
     },
     {
       "rank": 14,
+      "team": "Wisconsin",
+      "rating": 1055
+    },
+    {
+      "rank": 15,
       "team": "Massachusetts",
       "rating": 1053
     },
     {
-      "rank": 15,
+      "rank": 16,
       "team": "Michigan Tech",
       "rating": 1049
-    },
-    {
-      "rank": 16,
-      "team": "Wisconsin",
-      "rating": 1046
     },
     {
       "rank": 17,
