@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T18:43:05.364639",
+  "last_updated": "2026-04-12T02:32:13.247362",
   "rankings": [
     {
       "rank": 1,
@@ -8,18 +8,18 @@
     },
     {
       "rank": 2,
+      "team": "Denver",
+      "rating": 1111
+    },
+    {
+      "rank": 3,
       "team": "Quinnipiac",
       "rating": 1110
     },
     {
-      "rank": 3,
+      "rank": 4,
       "team": "North Dakota",
       "rating": 1109
-    },
-    {
-      "rank": 4,
-      "team": "Denver",
-      "rating": 1107
     },
     {
       "rank": 5,
@@ -68,13 +68,13 @@
     },
     {
       "rank": 14,
-      "team": "Wisconsin",
-      "rating": 1055
+      "team": "Massachusetts",
+      "rating": 1053
     },
     {
       "rank": 15,
-      "team": "Massachusetts",
-      "rating": 1053
+      "team": "Wisconsin",
+      "rating": 1051
     },
     {
       "rank": 16,
